@@ -6,11 +6,30 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.1.0
     - v1.0.0
 
 
 Changelog
 =========
+
+v1.1.0
+------
+- Added more categories:
+    - "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
+    - "Habs (DerreTech)" (Category_ShipMod_Hab_DerreTech [KYWD:xx00084C])
+    - "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
+    - "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
+    - "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
+    - "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
+    - "Miscellaneous" (Category_ShipMod_Misc [KYWD:xx000840])
+    - "Structural (Deimos)" (Category_ShipMod_Structure_Deimos [KYWD:xx00083B])
+    - "Structural (DerreTech)" (Category_ShipMod_Structure_DerreTech [KYWD:xx00084D])
+    - "Structural (HopeTech)" (Category_ShipMod_Structure_HopeTech [KYWD:xx00083C])
+    - "Structural (Nova)" (Category_ShipMod_Structure_Nova [KYWD:xx00083D])
+    - "Structural (Stroud-Eklund)" (Category_ShipMod_Structure_Stroud [KYWD:xx00083E])
+    - "Structural (Taiyo)" (Category_ShipMod_Structure_Taiyo [KYWD:xx00083F])
+- Added metalsnakegear to credits
 
 v1.0.0
 ------

@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.0.0
+Version: 1.1.0
 
 Table Of Contents
 -----------------
@@ -13,6 +13,7 @@ Table Of Contents
     - Compatibility
     - Known Issues
 - Installation
+    - Requirements
     - Upgrading
     - Mod Manager
     - Manual (NOT RECOMMENDED)
@@ -42,7 +43,7 @@ For the complete list of categories (both vanilla and included in this mod), ple
 
 Compatibility
 -------------
-Will conflict with other mods that do their own edits to the Ship Builder categories (ShipModuleRecipeCategories [FLST:002C2E94]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
 
 Known Issues
 ------------
@@ -51,7 +52,11 @@ None
 
 Installation
 ============
-NOTE: Requires Plugins.txt Enabler (https://www.nexusmods.com/starfield/mods/4157)
+NOTE: This mod must be above any of those that require it in your load order or you will get a CTD.
+
+Requirements
+------------
+- Plugins.txt Enabler (https://www.nexusmods.com/starfield/mods/4157)
 
 Upgrading
 ---------
@@ -72,7 +77,7 @@ Download and install the archive with either Mod Organizer 2 (https://github.com
 
 Manual (NOT RECOMMENDED)
 ------------------------
-Extract the archive to your Starfield installation folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with "*".
+Extract the archive to your Starfield installation folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with `*`.
 
 Archive Invalidation
 --------------------
@@ -95,6 +100,7 @@ ElminsterAU: For xEdit
 Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
 Nexus Mods: For mod hosting and for the Vortex Mod Manager
 TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod
+metalsnakegear: For the "Shield Booster", "Grav Booster", and vanilla manufacturer-based "Habs (...)" categories
 
 This mod's repo contains the following programs, each having their own copyrights and licenses:
 
@@ -138,8 +144,21 @@ Added
 - "Decorative Weapons (Utility)" (Category_ShipMod_Decorative_Weapon_Utility [KYWD:xx000830])
 - "DerreTech" (Category_ShipMod_DerreTech [KYWD:xx000831])
 - "Grav Boosters" (Category_ShipMod_GravDrive_Booster [KYWD:xx00080E])
+- "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
+- "Habs (DerreTech)" (Category_ShipMod_Hab_DerreTech [KYWD:xx00084C])
+- "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
+- "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
+- "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
+- "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
+- "Miscellaneous" (Category_ShipMod_Misc [KYWD:xx000840])
 - "Reactors (Supp)" (Category_ShipMod_Reactor_Supp [KYWD:xx00080B])
 - "Shield Boosters" (Category_ShipMod_Shields_Booster [KYWD:xx00080F])
+- "Structural (Deimos)" (Category_ShipMod_Structure_Deimos [KYWD:xx00083B])
+- "Structural (DerreTech)" (Category_ShipMod_Structure_DerreTech [KYWD:xx00084D])
+- "Structural (HopeTech)" (Category_ShipMod_Structure_HopeTech [KYWD:xx00083C])
+- "Structural (Nova)" (Category_ShipMod_Structure_Nova [KYWD:xx00083D])
+- "Structural (Stroud-Eklund)" (Category_ShipMod_Structure_Stroud [KYWD:xx00083E])
+- "Structural (Taiyo)" (Category_ShipMod_Structure_Taiyo [KYWD:xx00083F])
 - "Thrusters" (Category_ShipMod_Thruster [KYWD:xx000817])
 - "Utility" (Category_ShipMod_Utility [KYWD:xx000810])
 - "Weapons (Ballistic)" (Category_ShipMod_Weapon_Ballistic [KYWD:xx000813])
@@ -169,6 +188,13 @@ Full List
 - "Decorative Grav Drives" (Category_ShipMod_Decorative_GravDrive [KYWD:xx000803])
 - "Grav Boosters" (Category_ShipMod_GravDrive_Booster [KYWD:xx00080E])
 - "Habs" (Category_ShipMod_Hab [KYWD:0029C471])
+- "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
+- "Habs (DerreTech)" (Category_ShipMod_Hab_DerreTech [KYWD:xx00084C])
+- "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
+- "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
+- "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
+- "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
+- "Miscellaneous" (Category_ShipMod_Misc [KYWD:xx000840])
 - "Reactors" (Category_ShipMod_Reactor [KYWD:0029C475])
 - "Decorative Reactors" (Category_ShipMod_Decorative_Reactor [KYWD:xx000804])
 - "Reactors (Supp)" (Category_ShipMod_Reactor_Supp [KYWD:xx00080B])
@@ -176,6 +202,12 @@ Full List
 - "Decorative Shields" (Category_ShipMod_Decorative_Shield [KYWD:xx000805])
 - "Shield Boosters" (Category_ShipMod_Shields_Booster [KYWD:xx00080F])
 - "Structural" (Category_ShipMod_Structure [KYWD:0029C473])
+- "Structural (Deimos)" (Category_ShipMod_Structure_Deimos [KYWD:xx00083B])
+- "Structural (DerreTech)" (Category_ShipMod_Structure_DerreTech [KYWD:xx00084D])
+- "Structural (HopeTech)" (Category_ShipMod_Structure_HopeTech [KYWD:xx00083C])
+- "Structural (Nova)" (Category_ShipMod_Structure_Nova [KYWD:xx00083D])
+- "Structural (Stroud-Eklund)" (Category_ShipMod_Structure_Stroud [KYWD:xx00083E])
+- "Structural (Taiyo)" (Category_ShipMod_Structure_Taiyo [KYWD:xx00083F])
 - "Thrusters" (Category_ShipMod_Thruster [KYWD:xx000817])
 - "Utility" (Category_ShipMod_Utility [KYWD:xx000810])
 - "Weapons" (Category_ShipMod_Weapon [KYWD:002C155B])
