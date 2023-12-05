@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.1.0
+Version: 1.2.0
 
 Table Of Contents
 -----------------
@@ -35,7 +35,7 @@ Summary
 
 This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords (with translations!) that are then available for use in other mods. It also adds these keywords to the Ship Builder category list. The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
 
-Please note that the localization was done using Google Translate and xTranslator; I take no responsibility if it accidentally insults your mother. That being said, I would like to fix incorrect translations, so please let me know if something's wrong.
+Please note that the localization was done using Google Translate and xTranslator; I apologize if it accidentally insults your mother. That being said, I would like to fix incorrect translations, so please let me know if something's wrong.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
@@ -144,8 +144,10 @@ Added
 - "Decorative Weapons (Utility)" (Category_ShipMod_Decorative_Weapon_Utility [KYWD:xx000830])
 - "DerreTech" (Category_ShipMod_DerreTech [KYWD:xx000831])
 - "Grav Boosters" (Category_ShipMod_GravDrive_Booster [KYWD:xx00080E])
+- "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
 - "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
 - "Habs (DerreTech)" (Category_ShipMod_Hab_DerreTech [KYWD:xx00084C])
+- "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
 - "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
 - "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
 - "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
@@ -190,10 +192,12 @@ Full List
 - "Habs" (Category_ShipMod_Hab [KYWD:0029C471])
 - "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
 - "Habs (DerreTech)" (Category_ShipMod_Hab_DerreTech [KYWD:xx00084C])
+- "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
 - "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
 - "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
 - "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
 - "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
+- "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
 - "Miscellaneous" (Category_ShipMod_Misc [KYWD:xx000840])
 - "Reactors" (Category_ShipMod_Reactor [KYWD:0029C475])
 - "Decorative Reactors" (Category_ShipMod_Decorative_Reactor [KYWD:xx000804])

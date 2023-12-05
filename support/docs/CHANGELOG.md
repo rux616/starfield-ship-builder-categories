@@ -6,12 +6,21 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.2.0](#v120)
     - [v1.1.0](#v110)
     - [v1.0.0](#v100)
 
 
 Changelog
 =========
+
+v1.2.0
+------
+- Added more categories:
+    - "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
+    - "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
+
+([TOC](#table-of-contents))
 
 v1.1.0
 ------
@@ -30,6 +39,8 @@ v1.1.0
     - "Structural (Stroud-Eklund)" (Category_ShipMod_Structure_Stroud [KYWD:xx00083E])
     - "Structural (Taiyo)" (Category_ShipMod_Structure_Taiyo [KYWD:xx00083F])
 - Added metalsnakegear to credits
+
+([TOC](#table-of-contents))
 
 v1.0.0
 ------

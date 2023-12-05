@@ -6,12 +6,19 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.2.0
     - v1.1.0
     - v1.0.0
 
 
 Changelog
 =========
+
+v1.2.0
+------
+- Added more categories:
+    - "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
+    - "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
 
 v1.1.0
 ------
