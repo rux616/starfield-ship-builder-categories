@@ -96,3 +96,10 @@ $text_files | ForEach-Object {
     if ($updated) { "File updated with new version string$(if ($updated -gt 1) { "s" })." } else { "No file updated needed." }
     "------------------------------"
 }
+
+# esp files
+[string[]] $esp_files = @(
+    "data/ShipBuilderCategories.esm"
+)
+# python3 needs to be accessible from PATH!
+python3.exe "./support/scripts/plugin-description-version-updater.py" $(if (-not $make_backups) { "-n" }) "$version" $esp_files
