@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.3.0](#v130)
     - [v1.2.0](#v120)
     - [v1.1.0](#v110)
     - [v1.0.0](#v100)
@@ -13,6 +14,18 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.3.0
+------
+- Added more categories:
+    - "Decorative Weapons (Turret)" (Category_ShipMod_Decorative_Weapon_Turret [KYWD:xx00085A])
+    - "Engines (Economy)" (Category_ShipMod_Engine_Economy [KYWD:xx000854])
+    - "Engines (Overtuned)" (Category_ShipMod_Engine_Overtuned [KYWD:xx000855])
+    - "Weapons (Turret)" (Category_ShipMod_Weapon_Turret [KYWD:xx000858])
+- Removed "Data" subdirectory in mod archive
+- Added version number to plugin file description
+
+([TOC](#table-of-contents))
 
 v1.2.0
 ------

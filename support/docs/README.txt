@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.2.0
+Version: 1.3.0
 
 Table Of Contents
 -----------------
@@ -31,7 +31,7 @@ Overview
 
 Summary
 -------
-(Adds categories to the ship builder for use by other mods.)
+(Adds categories to the Ship Builder for use by other mods.)
 
 This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords (with translations!) that are then available for use in other mods. It also adds these keywords to the Ship Builder category list. The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
 
@@ -77,7 +77,7 @@ Download and install the archive with either Mod Organizer 2 (https://github.com
 
 Manual (NOT RECOMMENDED)
 ------------------------
-Extract the archive to your Starfield installation folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with `*`.
+Extract the archive to your Starfield installation's "Data" folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield\Data"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with `*`.
 
 Archive Invalidation
 --------------------
@@ -141,8 +141,11 @@ Added
 - "Decorative Weapons (Laser)" (Category_ShipMod_Decorative_Weapon_Laser [KYWD:xx000807])
 - "Decorative Weapons (Missile)" (Category_ShipMod_Decorative_Weapon_Missile [KYWD:xx000808])
 - "Decorative Weapons (Particle)" (Category_ShipMod_Decorative_Weapon_Particle [KYWD:xx000809])
+- "Decorative Weapons (Turret)" (Category_ShipMod_Decorative_Weapon_Turret [KYWD:xx00085A])
 - "Decorative Weapons (Utility)" (Category_ShipMod_Decorative_Weapon_Utility [KYWD:xx000830])
 - "DerreTech" (Category_ShipMod_DerreTech [KYWD:xx000831])
+- "Engines (Economy)" (Category_ShipMod_Engine_Economy [KYWD:xx000854])
+- "Engines (Overtuned)" (Category_ShipMod_Engine_Overtuned [KYWD:xx000855])
 - "Grav Boosters" (Category_ShipMod_GravDrive_Booster [KYWD:xx00080E])
 - "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
 - "Habs (Deimos)" (Category_ShipMod_Hab_Deimos [KYWD:xx000836])
@@ -168,6 +171,7 @@ Added
 - "Weapons (Laser)" (Category_ShipMod_Weapon_Laser [KYWD:xx000814])
 - "Weapons (Missile)" (Category_ShipMod_Weapon_Missile [KYWD:xx000812])
 - "Weapons (Particle)" (Category_ShipMod_Weapon_Particle [KYWD:xx000811])
+- "Weapons (Turret)" (Category_ShipMod_Weapon_Turret [KYWD:xx000858])
 - "Weapons (Utility)" (Category_ShipMod_Weapon_Utility [KYWD:xx000816])
 
 Full List
@@ -180,6 +184,8 @@ Full List
 - "DerreTech" (Category_ShipMod_DerreTech [KYWD:xx000831])
 - "Dockers" (Category_ShipMod_Docker [KYWD:0029C472])
 - "Engines" (Category_ShipMod_Engine [KYWD:0029C46D])
+- "Engines (Economy)" (Category_ShipMod_Engine_Economy [KYWD:xx000854])
+- "Engines (Overtuned)" (Category_ShipMod_Engine_Overtuned [KYWD:xx000855])
 - "Decorative Engines" (Category_ShipMod_Decorative_Engine [KYWD:xx000801])
 - "Equipment" (Category_ShipMod_Equipment [KYWD:0029C477])
 - "Decorative Equipment" (Category_ShipMod_Decorative_Equipment [KYWD:xx000832])
@@ -225,6 +231,8 @@ Full List
 - "Decorative Weapons (Missile)" (Category_ShipMod_Decorative_Weapon_Missile [KYWD:xx000808])
 - "Weapons (Particle)" (Category_ShipMod_Weapon_Particle [KYWD:xx000811])
 - "Decorative Weapons (Particle)" (Category_ShipMod_Decorative_Weapon_Particle [KYWD:xx000809])
+- "Weapons (Turret)" (Category_ShipMod_Weapon_Turret [KYWD:xx000858])
+- "Decorative Weapons (Turret)" (Category_ShipMod_Decorative_Weapon_Turret [KYWD:xx00085A])
 - "Weapons (Utility)" (Category_ShipMod_Weapon_Utility [KYWD:xx000816])
 - "Decorative Weapons (Utility)" (Category_ShipMod_Decorative_Weapon_Utility [KYWD:xx000830])
 - "Not Player Facing Misc" (Category_ShipMod_NoPlayer [KYWD:001F6958])
