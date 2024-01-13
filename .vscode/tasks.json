@@ -18,7 +18,6 @@
             "command": "./support/scripts/build-archives.ps1",
             "args": [
                 "Ship Builder Categories",
-                "-PutInDataSubdirectory",
             ],
 			"group": {
 				"kind": "build",
