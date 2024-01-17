@@ -21,6 +21,8 @@
 #   text files:
 #     .version.ps1
 #     ./support/docs/README.md
+#   plugin files:
+#     ./data/ShipBuilderCategories.esm
 
 
 # get a hash from a string
@@ -97,9 +99,9 @@ $text_files | ForEach-Object {
     "------------------------------"
 }
 
-# esp files
-[string[]] $esp_files = @(
-    "data/ShipBuilderCategories.esm"
+# plugin files
+[string[]] $plugin_files = @(
+    "./data/ShipBuilderCategories.esm"
 )
 # python3 needs to be accessible from PATH!
-python3.exe "./support/scripts/plugin-description-version-updater.py" $(if (-not $make_backups) { "-n" }) "$version" $esp_files
+python3.exe "./support/scripts/plugin-description-version-updater.py" $(if (-not $make_backups) { "-n" }) "$version" $plugin_files
