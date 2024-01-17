@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.3.0
+Version: 1.4.0
 
 Table Of Contents
 -----------------
@@ -173,6 +173,7 @@ Added
 - "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
 - "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
 - "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
+- "Habs (Shells)" (Category_ShipMod_Hab_Shell [KYWD:xx00085C])
 - "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
 - "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
 - "Miscellaneous" (Category_ShipMod_Misc [KYWD:xx000840])
@@ -221,6 +222,7 @@ Full List
 - "Habs (Habz)" (Category_ShipMod_Hab_Habz [KYWD:xx000851])
 - "Habs (HopeTech)" (Category_ShipMod_Hab_HopeTech [KYWD:xx000837])
 - "Habs (Nova)" (Category_ShipMod_Hab_Nova [KYWD:xx000838])
+- "Habs (Shells)" (Category_ShipMod_Hab_Shell [KYWD:xx00085C])
 - "Habs (Stroud-Eklund)" (Category_ShipMod_Hab_Stroud [KYWD:xx000839])
 - "Habs (Taiyo)" (Category_ShipMod_Hab_Taiyo [KYWD:xx00083A])
 - "Habz" (Category_ShipMod_Habz [KYWD:xx000850])
