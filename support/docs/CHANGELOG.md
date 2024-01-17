@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.4.0](#v140)
     - [v1.3.0](#v130)
     - [v1.2.0](#v120)
     - [v1.1.0](#v110)
@@ -14,6 +15,12 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.4.0
+------
+- Added category "Habs (Shells)" (Category_ShipMod_Hab_Shell [KYWD:xx00085C])
+
+([TOC](#table-of-contents))
 
 v1.3.0
 ------
