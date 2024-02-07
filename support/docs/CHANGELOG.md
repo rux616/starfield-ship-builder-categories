@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.5.0](#v150)
     - [v1.4.0](#v140)
     - [v1.3.0](#v130)
     - [v1.2.0](#v120)
@@ -15,6 +16,12 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.5.0
+------
+- Added category "BoostR" (Category_ShipMod_BoostR [KYWD:xx00085E])
+
+([TOC](#table-of-contents))
 
 v1.4.0
 ------

@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.4.0
+Version: 1.5.0
 
 Table Of Contents
 -----------------
@@ -115,8 +115,10 @@ Credits and Acknowledgements
 ElminsterAU: For xEdit
 Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
 Nexus Mods: For mod hosting and for the Vortex Mod Manager
-TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod
+TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod, as well as the "Habs (Shells)" category
 metalsnakegear: For the "Shield Booster", "Grav Booster", and vanilla manufacturer-based "Habs (...)" categories
+WyrdOh: For the "Engines (Economy)" and "Engines (Overtuned)" categories
+remosito: For the "BoostR" category
 
 This mod's repo contains the following programs, each having their own copyrights and licenses:
 
@@ -147,6 +149,7 @@ List of Categories
 
 Added
 -----
+- "BoostR" (Category_ShipMod_BoostR [KYWD:xx00085E])
 - "Class M" (Category_ShipMod_ClassM [KYWD:xx00080D])
 - "Cockpits (Supp)" (Category_ShipMod_Cockpit_Supp [KYWD:xx00080C])
 - "Decorative Cargo" (Category_ShipMod_Decorative_Cargo [KYWD:xx000800])
@@ -198,6 +201,7 @@ Added
 Full List
 ---------
 - "Bays" (Category_ShipMod_Bay [KYWD:0029C470])
+- "BoostR" (Category_ShipMod_BoostR [KYWD:xx00085E])
 - "Cargo" (Category_ShipMod_Cargo [KYWD:002C155D])
 - "Decorative Cargo" (Category_ShipMod_Decorative_Cargo [KYWD:xx000800])
 - "Cockpits" (Category_ShipMod_Cockpit [KYWD:0029C46E])
