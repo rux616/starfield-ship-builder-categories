@@ -34,8 +34,8 @@ function New-TemporaryDirectory {
 # stop the script if an uncaught error happens
 $ErrorActionPreference = "Stop"
 
-# source version file
-. "./.version.ps1"
+# source version class
+. "./support/scripts/version-class.ps1"
 
 $ba2_base_name = if ($PluginName) { $PluginName } else { $ModName.Replace(" ", "") }
 $local_dir = Get-Location
@@ -64,18 +64,35 @@ try {
         "strings"
         "terrain"
     )
+    # if these directories are present, an archive becomes non-compressible
+    $non_compressible_asset_dirs = @(
+        "interface"
+        "sound"
+        "strings"
+    )
     # copy stuff to be put in a general BA2 to a temporary directory
     $assets_found = $false
+    $assets_compressible = $true
     $asset_dirs | ForEach-Object {
         $current_asset_dir = Join-Path "data" $_
         if (Test-Path $current_asset_dir) {
             $script:assets_found = $true
+            if ($non_compressible_asset_dirs -contains $_) {
+                $script:assets_compressible = $false
+            }
             Copy-Item -Recurse -Path $current_asset_dir $temp_dir_general
         }
     }
     # make general BA2
     If ($assets_found) {
-        ./support/bin/BSArch/BSArch.exe pack "$temp_dir_general" "$data_dir/$ba2_base_name - Main.ba2" -sf1 -z -share -mt
+        ./support/bin/BSArch/BSArch.exe `
+            pack `
+            "$temp_dir_general" `
+            "$data_dir/$ba2_base_name - Main.ba2" `
+            -sf1 `
+            "$(if ($assets_compressible) { "-z" } else {})" `
+            -share `
+            -mt
     }
 
     # potential directories to put into texture BA2s:
@@ -93,7 +110,14 @@ try {
     }
     # make texture BA2
     if ($assets_found) {
-        ./support/bin/BSArch/BSArch.exe pack "$temp_dir_general" "$data_dir/$ba2_base_name - Textures.ba2" -sf1dds -z -share -mt
+        ./support/bin/BSArch/BSArch.exe `
+            pack `
+            "$temp_dir_general" `
+            "$data_dir/$ba2_base_name - Textures.ba2" `
+            -sf1dds `
+            -z `
+            -share `
+            -mt
     }
 
     # create exclusion file for 7z
