@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.5.0
+Version: 1.6.0
 
 Table Of Contents
 -----------------
@@ -96,18 +96,20 @@ License
 
 Credits and Acknowledgements
 ============================
-ElminsterAU: For xEdit
+ElminsterAU: For xEdit and BSArch
 Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
 Nexus Mods: For mod hosting and for the Vortex Mod Manager
 TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod, as well as the "Habs (Shells)" category
 metalsnakegear: For the "Shield Booster", "Grav Booster", and vanilla manufacturer-based "Habs (...)" categories
 WyrdOh: For the "Engines (Economy)" and "Engines (Overtuned)" categories
 remosito: For the "BoostR" category
+Noggog: For Spriggit
 
 This mod's repo contains the following programs, each having their own copyrights and licenses:
 
 - 7-Zip 23.01 (2023-06-20) Console Executable by Igor Pavlov (https://www.7-zip.org/)
-- BSArch v0.9c (part of xEdit 4.1.4u) by zilav, ElminsterAU, and Sheson (https://github.com/TES5Edit/TES5Edit)
+- BSArch v0.9c (part of xEdit v4.1.5f) by zilav, ElminsterAU, and Sheson (https://github.com/TES5Edit/TES5Edit)
+- SpriggitCLI v0.18 by Noggog (https://github.com/Mutagen-Modding/Spriggit)
 
 
 Contact
