@@ -1,0 +1,26 @@
+FormKey: 00084C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_DerreTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (DerreTech)
+  - Language: English
+    String: Habs (DerreTech)
+  - Language: Spanish
+    String: Habs (DerreTech)
+  - Language: French
+    String: Habs (DerreTech)
+  - Language: Italian
+    String: Habs (DerreTech)
+  - Language: Japanese
+    String: ハブ (デレテック)
+  - Language: Polish
+    String: Habs (DerreTech)
+  - Language: Portuguese_Brazil
+    String: Habs (DerreTech)
+  - Language: ChineseSimplified
+    String: 哈布斯（德尔泰克）

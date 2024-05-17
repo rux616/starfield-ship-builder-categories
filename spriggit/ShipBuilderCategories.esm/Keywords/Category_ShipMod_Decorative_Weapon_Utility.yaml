@@ -1,0 +1,26 @@
+FormKey: 000830:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Decorative_Weapon_Utility
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Dekorative Waffen (Nützlich)
+  - Language: English
+    String: Decorative Weapons (Utility)
+  - Language: Spanish
+    String: Armas Decorativas (Utilidad)
+  - Language: French
+    String: Armes Décoratives (Utilitaires)
+  - Language: Italian
+    String: Armi Decorative (Utilità)
+  - Language: Japanese
+    String: 装飾武器 (ユーティリティ)
+  - Language: Polish
+    String: Broń Dekoracyjna (Użyteczna)
+  - Language: Portuguese_Brazil
+    String: Armas Decorativas (Utilitário)
+  - Language: ChineseSimplified
+    String: 装饰武器（实用）

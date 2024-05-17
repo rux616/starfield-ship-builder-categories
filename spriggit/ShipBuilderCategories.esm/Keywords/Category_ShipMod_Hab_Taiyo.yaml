@@ -1,0 +1,26 @@
+FormKey: 00083A:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_Taiyo
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (Taiyo)
+  - Language: English
+    String: Habs (Taiyo)
+  - Language: Spanish
+    String: Habs (Taiyo)
+  - Language: French
+    String: Habs (Taiyo)
+  - Language: Italian
+    String: Habs (Taiyo)
+  - Language: Japanese
+    String: ハブ (太陽)
+  - Language: Polish
+    String: Habs (Taiyo)
+  - Language: Portuguese_Brazil
+    String: Habs (Taiyo)
+  - Language: ChineseSimplified
+    String: 哈布斯（太阳）

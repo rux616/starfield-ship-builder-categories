@@ -1,0 +1,96 @@
+FormKey: 2C2E94:Starfield.esm
+EditorID: ShipModuleRecipeCategories
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Schiffsmodule
+  - Language: English
+    String: Ship Modules
+  - Language: Spanish
+    String: Módulos para naves
+  - Language: French
+    String: Modules de vaisseau
+  - Language: Italian
+    String: Moduli Navali
+  - Language: Japanese
+    String: 船モジュール
+  - Language: Polish
+    String: Moduły Statku
+  - Language: Portuguese_Brazil
+    String: Módulos de Nave
+  - Language: ChineseSimplified
+    String: 飞船模块
+Items:
+- 29C470:Starfield.esm
+- 00085E:ShipBuilderCategories.esm
+- 2C155D:Starfield.esm
+- 000800:ShipBuilderCategories.esm
+- 29C46E:Starfield.esm
+- 00080C:ShipBuilderCategories.esm
+- 000831:ShipBuilderCategories.esm
+- 29C472:Starfield.esm
+- 29C46D:Starfield.esm
+- 000854:ShipBuilderCategories.esm
+- 000855:ShipBuilderCategories.esm
+- 000801:ShipBuilderCategories.esm
+- 29C477:Starfield.esm
+- 000832:ShipBuilderCategories.esm
+- 29C478:Starfield.esm
+- 000802:ShipBuilderCategories.esm
+- 29C46F:Starfield.esm
+- 29C474:Starfield.esm
+- 000803:ShipBuilderCategories.esm
+- 00080E:ShipBuilderCategories.esm
+- 29C471:Starfield.esm
+- 000836:ShipBuilderCategories.esm
+- 00084C:ShipBuilderCategories.esm
+- 000851:ShipBuilderCategories.esm
+- 000837:ShipBuilderCategories.esm
+- 000838:ShipBuilderCategories.esm
+- 00085C:ShipBuilderCategories.esm
+- 000839:ShipBuilderCategories.esm
+- 00083A:ShipBuilderCategories.esm
+- 000850:ShipBuilderCategories.esm
+- 000840:ShipBuilderCategories.esm
+- 29C475:Starfield.esm
+- 000804:ShipBuilderCategories.esm
+- 00080B:ShipBuilderCategories.esm
+- 29C476:Starfield.esm
+- 000805:ShipBuilderCategories.esm
+- 00080F:ShipBuilderCategories.esm
+- 29C473:Starfield.esm
+- 00083B:ShipBuilderCategories.esm
+- 00084D:ShipBuilderCategories.esm
+- 00083C:ShipBuilderCategories.esm
+- 00083D:ShipBuilderCategories.esm
+- 00083E:ShipBuilderCategories.esm
+- 00083F:ShipBuilderCategories.esm
+- 000817:ShipBuilderCategories.esm
+- 000810:ShipBuilderCategories.esm
+- 2C155B:Starfield.esm
+- 000813:ShipBuilderCategories.esm
+- 00080A:ShipBuilderCategories.esm
+- 000815:ShipBuilderCategories.esm
+- 000806:ShipBuilderCategories.esm
+- 000814:ShipBuilderCategories.esm
+- 000807:ShipBuilderCategories.esm
+- 000812:ShipBuilderCategories.esm
+- 000808:ShipBuilderCategories.esm
+- 000811:ShipBuilderCategories.esm
+- 000809:ShipBuilderCategories.esm
+- 000858:ShipBuilderCategories.esm
+- 00085A:ShipBuilderCategories.esm
+- 000816:ShipBuilderCategories.esm
+- 000830:ShipBuilderCategories.esm
+- 1F6958:Starfield.esm
+- 00080D:ShipBuilderCategories.esm
+- 266EF6:Starfield.esm
+- 209115:Starfield.esm
+- 20911B:Starfield.esm
+- 20911A:Starfield.esm
+- 209119:Starfield.esm
+- 209118:Starfield.esm
+- 209117:Starfield.esm
+- 209116:Starfield.esm
+- 04B3C1:Starfield.esm

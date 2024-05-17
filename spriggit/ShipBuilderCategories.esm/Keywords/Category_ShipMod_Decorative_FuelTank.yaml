@@ -1,0 +1,26 @@
+FormKey: 000802:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Decorative_FuelTank
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Dekorative Treibstofftanks
+  - Language: English
+    String: Decorative Fuel Tanks
+  - Language: Spanish
+    String: Tanques de Combustible Decorativos
+  - Language: French
+    String: Réservoirs de Carburant Décoratifs
+  - Language: Italian
+    String: Serbatoi di Carburante Decorativi
+  - Language: Japanese
+    String: 装飾燃料タンク
+  - Language: Polish
+    String: Ozdobne Zbiorniki Paliwa
+  - Language: Portuguese_Brazil
+    String: Tanques de Combustível Decorativos
+  - Language: ChineseSimplified
+    String: 装饰油箱

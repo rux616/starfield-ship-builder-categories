@@ -1,0 +1,26 @@
+FormKey: 00083D:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_Nova
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (Nova)
+  - Language: English
+    String: Structural (Nova)
+  - Language: Spanish
+    String: Estructural (Nova)
+  - Language: French
+    String: Structurel (Nova)
+  - Language: Italian
+    String: Strutturale (Nova)
+  - Language: Japanese
+    String: 構造 (Nova)
+  - Language: Polish
+    String: Strukturalny (Nova)
+  - Language: Portuguese_Brazil
+    String: Estrutural (Nova)
+  - Language: ChineseSimplified
+    String: 结构性（新星）

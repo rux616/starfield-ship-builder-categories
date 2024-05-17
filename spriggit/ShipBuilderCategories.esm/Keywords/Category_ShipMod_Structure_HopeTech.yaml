@@ -1,0 +1,26 @@
+FormKey: 00083C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_HopeTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (HopeTech)
+  - Language: English
+    String: Structural (HopeTech)
+  - Language: Spanish
+    String: Estructural (HopeTech)
+  - Language: French
+    String: Structurel (HopeTech)
+  - Language: Italian
+    String: Strutturale (HopeTech)
+  - Language: Japanese
+    String: 構造 (HopeTech)
+  - Language: Polish
+    String: Strukturalny (HopeTech)
+  - Language: Portuguese_Brazil
+    String: Estrutural (HopeTech)
+  - Language: ChineseSimplified
+    String: 结构性（希望科技）

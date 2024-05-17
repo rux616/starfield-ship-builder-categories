@@ -1,0 +1,26 @@
+FormKey: 00085E:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_BoostR
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: BoostR
+  - Language: English
+    String: BoostR
+  - Language: Spanish
+    String: ImpulsoR
+  - Language: French
+    String: BoostR
+  - Language: Italian
+    String: BoostR
+  - Language: Japanese
+    String: ブーストR
+  - Language: Polish
+    String: Zwiększ R
+  - Language: Portuguese_Brazil
+    String: BoostR
+  - Language: ChineseSimplified
+    String: 升压器

@@ -1,0 +1,26 @@
+FormKey: 00080A:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Decorative_Weapon_Ballistic
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Dekorative Waffen (Ballistisch)
+  - Language: English
+    String: Decorative Weapons (Ballistic)
+  - Language: Spanish
+    String: Armas Decorativas (Balísticas)
+  - Language: French
+    String: Armes Décoratives (Balistiques)
+  - Language: Italian
+    String: Armi Decorative (Balistiche)
+  - Language: Japanese
+    String: 装飾武器 (弾道)
+  - Language: Polish
+    String: Broń Dekoracyjna (Balistyczna)
+  - Language: Portuguese_Brazil
+    String: Armas Decorativas (Balísticas)
+  - Language: ChineseSimplified
+    String: 装饰武器（弹道）
