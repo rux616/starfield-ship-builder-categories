@@ -1,0 +1,26 @@
+FormKey: 00080D:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_ClassM
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Klasse M
+  - Language: English
+    String: Class M
+  - Language: Spanish
+    String: Clase M
+  - Language: French
+    String: Classe M
+  - Language: Italian
+    String: Classe M
+  - Language: Japanese
+    String: クラスM
+  - Language: Polish
+    String: Klasa M
+  - Language: Portuguese_Brazil
+    String: Classe M
+  - Language: ChineseSimplified
+    String: 级别M

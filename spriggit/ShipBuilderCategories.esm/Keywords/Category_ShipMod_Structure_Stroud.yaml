@@ -1,0 +1,26 @@
+FormKey: 00083E:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_Stroud
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (Stroud-Eklund)
+  - Language: English
+    String: Structural (Stroud-Eklund)
+  - Language: Spanish
+    String: Estructural (Stroud-Eklund)
+  - Language: French
+    String: Structurel (Stroud-Eklund)
+  - Language: Italian
+    String: Strutturale (Stroud-Eklund)
+  - Language: Japanese
+    String: 構造 (ストラウド・エクランド)
+  - Language: Polish
+    String: Strukturalny (Stroud-Eklund)
+  - Language: Portuguese_Brazil
+    String: Estrutural (Stroud-Eklund)
+  - Language: ChineseSimplified
+    String: 结构性（斯特劳德-埃克伦德）

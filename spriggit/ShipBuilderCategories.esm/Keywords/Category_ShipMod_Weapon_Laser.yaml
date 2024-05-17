@@ -1,0 +1,26 @@
+FormKey: 000814:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Weapon_Laser
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Waffen (Laser)
+  - Language: English
+    String: Weapons (Laser)
+  - Language: Spanish
+    String: Armas (Láser)
+  - Language: French
+    String: Armes (Laser)
+  - Language: Italian
+    String: Armi (Laser)
+  - Language: Japanese
+    String: 武器 (レーザー)
+  - Language: Polish
+    String: Broń (Laserowa)
+  - Language: Portuguese_Brazil
+    String: Armas (Laser)
+  - Language: ChineseSimplified
+    String: 武器（激光）

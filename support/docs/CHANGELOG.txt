@@ -6,6 +6,7 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.6.0
     - v1.5.0
     - v1.4.0
     - v1.3.0
@@ -16,6 +17,13 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.6.0
+------
+- Removed compression on archive
+- Updated BSArch.exe to v0.9c as included with xEdit v4.1.5f
+- Added SpriggitCLI v0.18 to serialize plugin
+- Various updates to build system scripts and configuration
 
 v1.5.0
 ------

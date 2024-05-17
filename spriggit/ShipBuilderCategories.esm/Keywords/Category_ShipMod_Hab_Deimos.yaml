@@ -1,0 +1,26 @@
+FormKey: 000836:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_Deimos
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (Deimos)
+  - Language: English
+    String: Habs (Deimos)
+  - Language: Spanish
+    String: Habs (Deimos)
+  - Language: French
+    String: Habs (Deimos)
+  - Language: Italian
+    String: Habs (Deimos)
+  - Language: Japanese
+    String: ハブ (デイモス)
+  - Language: Polish
+    String: Habs (Deimos)
+  - Language: Portuguese_Brazil
+    String: Habs (Deimos)
+  - Language: ChineseSimplified
+    String: 哈布斯（火卫二）

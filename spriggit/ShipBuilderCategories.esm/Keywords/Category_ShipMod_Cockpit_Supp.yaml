@@ -1,0 +1,26 @@
+FormKey: 00080C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cockpit_Supp
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Cockpits (Supp)
+  - Language: English
+    String: Cockpits (Supp)
+  - Language: Spanish
+    String: Cabinas (Supp)
+  - Language: French
+    String: Cockpits (Supp)
+  - Language: Italian
+    String: Cabine di Pilotaggio (Supp)
+  - Language: Japanese
+    String: コックピット (補助装置)
+  - Language: Polish
+    String: Kokpity (Dodatkowe)
+  - Language: Portuguese_Brazil
+    String: Cabines (Supp)
+  - Language: ChineseSimplified
+    String: 驾驶舱（补充）

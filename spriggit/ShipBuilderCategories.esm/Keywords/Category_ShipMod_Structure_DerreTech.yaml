@@ -1,0 +1,26 @@
+FormKey: 00084D:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_DerreTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (DerreTech)
+  - Language: English
+    String: Structural (DerreTech)
+  - Language: Spanish
+    String: Estructural (DerreTech)
+  - Language: French
+    String: Structurel (DerreTech)
+  - Language: Italian
+    String: Strutturale (DerreTech)
+  - Language: Japanese
+    String: 構造 (デレテック)
+  - Language: Polish
+    String: Strukturalny (DerreTech)
+  - Language: Portuguese_Brazil
+    String: Estrutural (DerreTech)
+  - Language: ChineseSimplified
+    String: 结构性（德尔泰克）

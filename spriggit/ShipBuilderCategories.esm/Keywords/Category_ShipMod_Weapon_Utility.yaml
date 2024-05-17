@@ -1,0 +1,26 @@
+FormKey: 000816:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Weapon_Utility
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Waffen (Hilfsmittel)
+  - Language: English
+    String: Weapons (Utility)
+  - Language: Spanish
+    String: Armas (Utilidad)
+  - Language: French
+    String: Armes (Utilitaires)
+  - Language: Italian
+    String: Armi (Utilità)
+  - Language: Japanese
+    String: 武器 (ユーティリティ)
+  - Language: Polish
+    String: Broń (Użyteczna)
+  - Language: Portuguese_Brazil
+    String: Armas (Utilitários)
+  - Language: ChineseSimplified
+    String: 武器（实用）

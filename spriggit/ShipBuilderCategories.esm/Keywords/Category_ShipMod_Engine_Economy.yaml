@@ -1,0 +1,26 @@
+FormKey: 000854:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Engine_Economy
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Motoren (Wirtschaft)
+  - Language: English
+    String: Engines (Economy)
+  - Language: Spanish
+    String: Motores (Economía)
+  - Language: French
+    String: Moteurs (Économie)
+  - Language: Italian
+    String: Motori (Economia)
+  - Language: Japanese
+    String: エンジン (エコノミー)
+  - Language: Polish
+    String: Silniki (Ekonomiczne)
+  - Language: Portuguese_Brazil
+    String: Motores (Economia)
+  - Language: ChineseSimplified
+    String: 引擎（经济）

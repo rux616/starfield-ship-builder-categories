@@ -1,0 +1,26 @@
+FormKey: 000805:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Decorative_Shield
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Dekorative Schilde
+  - Language: English
+    String: Decorative Shields
+  - Language: Spanish
+    String: Escudos Decorativos
+  - Language: French
+    String: Boucliers Décoratifs
+  - Language: Italian
+    String: Scudi Decorativi
+  - Language: Japanese
+    String: 装飾シールド
+  - Language: Polish
+    String: Ozdobne Tarcze
+  - Language: Portuguese_Brazil
+    String: Escudos Decorativos
+  - Language: ChineseSimplified
+    String: 装饰盾牌
