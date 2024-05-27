@@ -32,7 +32,7 @@ $text_files.Add(@{
         # Version: ...
         file               = ".\support\docs\README.md"
         search_and_replace = @(@{
-                search  = "^(Version: ).*"
+                search  = "(Version: ).*"
                 replace = "`${1}" + $version.ToString()
             })
     })
