@@ -19,7 +19,7 @@
 # text file schema for version updater
 
 $text_files.Add(@{
-        # .version.ps1
+        # .\.version.ps1
         # build_number = ...
         file               = ".\.version.ps1"
         search_and_replace = @(@{
@@ -28,7 +28,7 @@ $text_files.Add(@{
             })
     })
 $text_files.Add(@{
-        # ./support/docs/README.md
+        # .\support\docs\README.md
         # Version: ...
         file               = ".\support\docs\README.md"
         search_and_replace = @(@{
