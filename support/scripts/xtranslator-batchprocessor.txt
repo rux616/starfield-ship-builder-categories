@@ -1,4 +1,4 @@
-﻿StartRule
+StartRule
 LangSource=en
 LangDest=de
 UseDataDir=1
@@ -93,3 +93,4 @@ Command=Finalize
 Command=SaveDictionary
 Command=CloseAll
 EndRule
+
