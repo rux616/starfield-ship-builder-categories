@@ -1,0 +1,26 @@
+FormKey: 0008B2:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_GravDrive_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Grav-Antriebe (Matilija)
+  - Language: English
+    String: Grav Drives (Matilija)
+  - Language: Spanish
+    String: Unidades gravitacionales (Matilija)
+  - Language: French
+    String: Lecteurs gravitationnels (Matilija)
+  - Language: Italian
+    String: Unità gravitazionali (Matilija)
+  - Language: Japanese
+    String: グラヴドライブ（マティリヤ）
+  - Language: Polish
+    String: Napędy grawitacyjne (Matilija)
+  - Language: Portuguese_Brazil
+    String: Unidades Grav (Matilija)
+  - Language: ChineseSimplified
+    String: 重力驱动器 (Matilija)

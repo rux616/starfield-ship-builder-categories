@@ -1,0 +1,26 @@
+FormKey: 000876:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_FuelTank_DarkStar
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Treibstofftanks (DarkStar)
+  - Language: English
+    String: Fuel Tanks (DarkStar)
+  - Language: Spanish
+    String: Tanques de combustible (DarkStar)
+  - Language: French
+    String: Réservoirs de carburant (DarkStar)
+  - Language: Italian
+    String: Serbatoi di carburante (DarkStar)
+  - Language: Japanese
+    String: 燃料タンク (DarkStar)
+  - Language: Polish
+    String: Zbiorniki paliwa (DarkStar)
+  - Language: Portuguese_Brazil
+    String: Tanques de Combustível (DarkStar)
+  - Language: ChineseSimplified
+    String: 油箱（暗星）

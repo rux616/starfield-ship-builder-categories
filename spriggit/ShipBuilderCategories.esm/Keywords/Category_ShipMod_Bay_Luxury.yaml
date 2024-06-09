@@ -1,0 +1,26 @@
+FormKey: 0008C4:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Bay_Luxury
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Buchten (LuxuryLines)
+  - Language: English
+    String: Bays (LuxuryLines)
+  - Language: Spanish
+    String: Bahías (Líneas de lujo)
+  - Language: French
+    String: Baies (LuxuryLines)
+  - Language: Italian
+    String: Baie (LuxuryLines)
+  - Language: Japanese
+    String: ベイズ (ラグジュアリーライン)
+  - Language: Polish
+    String: Zatoki (LuxuryLines)
+  - Language: Portuguese_Brazil
+    String: Baías (LuxuryLines)
+  - Language: ChineseSimplified
+    String: 海湾（豪华航线）

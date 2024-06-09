@@ -1,0 +1,26 @@
+FormKey: 0008C2:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Equipment_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Ausrüstung (Matilija)
+  - Language: English
+    String: Equipment (Matilija)
+  - Language: Spanish
+    String: Equipo (Matilija)
+  - Language: French
+    String: Équipement (Matilija)
+  - Language: Italian
+    String: Attrezzatura (Matilia)
+  - Language: Japanese
+    String: 装備（マティリヤ）
+  - Language: Polish
+    String: Sprzęt (Matilija)
+  - Language: Portuguese_Brazil
+    String: Equipamento (Matilija)
+  - Language: ChineseSimplified
+    String: 设备（马蒂利亚）

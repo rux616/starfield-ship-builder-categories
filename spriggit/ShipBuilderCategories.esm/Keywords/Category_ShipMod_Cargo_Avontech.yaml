@@ -1,0 +1,26 @@
+FormKey: 00089C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cargo_Avontech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Fracht (Avontech)
+  - Language: English
+    String: Cargo (Avontech)
+  - Language: Spanish
+    String: Carga (Avontech)
+  - Language: French
+    String: Cargo (Avontech)
+  - Language: Italian
+    String: Carico (Avontech)
+  - Language: Japanese
+    String: 貨物 (エイボンテック)
+  - Language: Polish
+    String: Ładunek (Avontech)
+  - Language: Portuguese_Brazil
+    String: Carga (Avontech)
+  - Language: ChineseSimplified
+    String: 货运（雅芳科技）

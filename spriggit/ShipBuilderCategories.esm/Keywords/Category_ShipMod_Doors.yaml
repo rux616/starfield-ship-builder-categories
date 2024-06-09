@@ -1,0 +1,26 @@
+FormKey: 0008CA:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Doors
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Türen
+  - Language: English
+    String: Doors
+  - Language: Spanish
+    String: Puertas
+  - Language: French
+    String: Portes
+  - Language: Italian
+    String: Porte
+  - Language: Japanese
+    String: 扉
+  - Language: Polish
+    String: Drzwi
+  - Language: Portuguese_Brazil
+    String: Portas
+  - Language: ChineseSimplified
+    String: 门

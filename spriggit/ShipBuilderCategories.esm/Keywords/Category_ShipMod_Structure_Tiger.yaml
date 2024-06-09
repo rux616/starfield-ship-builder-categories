@@ -1,0 +1,26 @@
+FormKey: 000894:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (Tiger)
+  - Language: English
+    String: Structural (Tiger)
+  - Language: Spanish
+    String: Estructural (Tigre)
+  - Language: French
+    String: Structurel (Tigre)
+  - Language: Italian
+    String: Strutturale (Tigre)
+  - Language: Japanese
+    String: 構造（タイガー）
+  - Language: Polish
+    String: Strukturalny (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Estrutural (Tigre)
+  - Language: ChineseSimplified
+    String: 结构（虎）

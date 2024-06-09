@@ -1,0 +1,26 @@
+FormKey: 000888:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_GravDrive_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Gravitationsantriebe (Tiger)
+  - Language: English
+    String: Grav Drives (Tiger)
+  - Language: Spanish
+    String: Unidades gravitacionales (tigre)
+  - Language: French
+    String: Grav Drives (Tigre)
+  - Language: Italian
+    String: Unità gravitazionali (Tigre)
+  - Language: Japanese
+    String: グラヴドライブ（タイガー）
+  - Language: Polish
+    String: Napędy grawitacyjne (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Unidades Grav (Tigre)
+  - Language: ChineseSimplified
+    String: 重力驱动器（Tiger）

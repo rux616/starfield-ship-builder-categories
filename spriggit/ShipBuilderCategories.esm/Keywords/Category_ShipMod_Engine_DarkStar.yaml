@@ -1,0 +1,26 @@
+FormKey: 00086A:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Engine_DarkStar
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Motoren (DarkStar)
+  - Language: English
+    String: Engines (DarkStar)
+  - Language: Spanish
+    String: Motores (Estrella Oscura)
+  - Language: French
+    String: Moteurs (DarkStar)
+  - Language: Italian
+    String: Motori (DarkStar)
+  - Language: Japanese
+    String: エンジン (DarkStar)
+  - Language: Polish
+    String: Silniki (DarkStar)
+  - Language: Portuguese_Brazil
+    String: Motores (DarkStar)
+  - Language: ChineseSimplified
+    String: 引擎（暗星）

@@ -1,0 +1,26 @@
+FormKey: 00086C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Gear_DarkStar
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Ausrüstung (DarkStar)
+  - Language: English
+    String: Gear (DarkStar)
+  - Language: Spanish
+    String: Engranaje (Estrella Oscura)
+  - Language: French
+    String: Équipement (DarkStar)
+  - Language: Italian
+    String: Equipaggiamento (DarkStar)
+  - Language: Japanese
+    String: ギア (ダークスター)
+  - Language: Polish
+    String: Sprzęt (DarkStar)
+  - Language: Portuguese_Brazil
+    String: Equipamento (Estrela Negra)
+  - Language: ChineseSimplified
+    String: 装备（暗星）

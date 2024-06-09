@@ -1,0 +1,26 @@
+FormKey: 000890:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cargo_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Fracht (Tiger)
+  - Language: English
+    String: Cargo (Tiger)
+  - Language: Spanish
+    String: Carga (tigre)
+  - Language: French
+    String: Cargaison (Tigre)
+  - Language: Italian
+    String: Carico (Tigre)
+  - Language: Japanese
+    String: 貨物（タイガー）
+  - Language: Polish
+    String: Ładunek (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Carga (Tigre)
+  - Language: ChineseSimplified
+    String: 货物（老虎）

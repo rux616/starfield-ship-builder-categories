@@ -1,0 +1,26 @@
+FormKey: 000882:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Tiger
+  - Language: English
+    String: Tiger
+  - Language: Spanish
+    String: Tigre
+  - Language: French
+    String: Tigre
+  - Language: Italian
+    String: Tigre
+  - Language: Japanese
+    String: 虎
+  - Language: Polish
+    String: Tygrys
+  - Language: Portuguese_Brazil
+    String: Tigre
+  - Language: ChineseSimplified
+    String: 老虎

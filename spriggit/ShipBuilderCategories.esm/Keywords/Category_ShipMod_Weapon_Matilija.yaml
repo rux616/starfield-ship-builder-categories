@@ -1,0 +1,26 @@
+FormKey: 0008C0:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Weapon_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Waffen (Matilija)
+  - Language: English
+    String: Weapons (Matilija)
+  - Language: Spanish
+    String: Armas (Matilija)
+  - Language: French
+    String: Armes (Matilija)
+  - Language: Italian
+    String: Armi (Matilia)
+  - Language: Japanese
+    String: 武器（マティリヤ）
+  - Language: Polish
+    String: Broń (Matilija)
+  - Language: Portuguese_Brazil
+    String: Armas (Matilija)
+  - Language: ChineseSimplified
+    String: 武器（马蒂利亚）
