@@ -1,0 +1,26 @@
+FormKey: 0008AA:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Structure_Avontech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Strukturell (Avontech)
+  - Language: English
+    String: Structural (Avontech)
+  - Language: Spanish
+    String: Estructural (Avontech)
+  - Language: French
+    String: Structurel (Avontech)
+  - Language: Italian
+    String: Strutturale (Avontech)
+  - Language: Japanese
+    String: 構造 (エイボンテック)
+  - Language: Polish
+    String: Strukturalne (Avontech)
+  - Language: Portuguese_Brazil
+    String: Estrutural (Avontech)
+  - Language: ChineseSimplified
+    String: 结构（雅芳科技）

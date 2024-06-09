@@ -1,0 +1,26 @@
+FormKey: 0008BA:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (Matilija)
+  - Language: English
+    String: Habs (Matilija)
+  - Language: Spanish
+    String: Habs (Matilija)
+  - Language: French
+    String: Tricolore (Matilija)
+  - Language: Italian
+    String: Habs (Matilia)
+  - Language: Japanese
+    String: ハブス（マティリヤ）
+  - Language: Polish
+    String: Habs (Matilija)
+  - Language: Portuguese_Brazil
+    String: Habs (Matilija)
+  - Language: ChineseSimplified
+    String: 哈布斯（马蒂利亚）

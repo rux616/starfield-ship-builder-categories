@@ -1,0 +1,26 @@
+FormKey: 000864:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_DarkStar
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Dunkler Stern
+  - Language: English
+    String: DarkStar
+  - Language: Spanish
+    String: Estrella negra
+  - Language: French
+    String: Étoile Noire
+  - Language: Italian
+    String: Stella nera
+  - Language: Japanese
+    String: ダークスター
+  - Language: Polish
+    String: Ciemna gwiazda
+  - Language: Portuguese_Brazil
+    String: Estrela Escura
+  - Language: ChineseSimplified
+    String: 暗星

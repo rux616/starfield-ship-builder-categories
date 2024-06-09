@@ -1,0 +1,26 @@
+FormKey: 000880:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_Cob
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (Cob's Customs)
+  - Language: English
+    String: Habs (Cob's Customs)
+  - Language: Spanish
+    String: Habs (Aduanas de Cob)
+  - Language: French
+    String: Habs (Cob's Customs)
+  - Language: Italian
+    String: Habs (Cob's Customs)
+  - Language: Japanese
+    String: ハブ (コブの税関)
+  - Language: Polish
+    String: Habs (Zwyczaje Coba)
+  - Language: Portuguese_Brazil
+    String: Habs (Alfândega de Cob)
+  - Language: ChineseSimplified
+    String: Habs（科布海关）

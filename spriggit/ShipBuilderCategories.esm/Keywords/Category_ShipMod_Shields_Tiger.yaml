@@ -1,0 +1,26 @@
+FormKey: 00088C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Shields_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Schilde (Tiger)
+  - Language: English
+    String: Shields (Tiger)
+  - Language: Spanish
+    String: Escudos (Tigre)
+  - Language: French
+    String: Boucliers (Tigre)
+  - Language: Italian
+    String: Scudi (Tigre)
+  - Language: Japanese
+    String: シールズ（タイガー）
+  - Language: Polish
+    String: Tarcze (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Escudos (Tigre)
+  - Language: ChineseSimplified
+    String: 盾牌（虎）

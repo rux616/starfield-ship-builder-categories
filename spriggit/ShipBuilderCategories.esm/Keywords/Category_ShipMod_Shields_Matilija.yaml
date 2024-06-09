@@ -1,0 +1,26 @@
+FormKey: 0008B4:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Shields_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Schilde (Matilija)
+  - Language: English
+    String: Shields (Matilija)
+  - Language: Spanish
+    String: Escudos (Matilija)
+  - Language: French
+    String: Boucliers (Matilija)
+  - Language: Italian
+    String: Scudi (Matilia)
+  - Language: Japanese
+    String: シールズ（マティリヤ）
+  - Language: Polish
+    String: Tarcze (Matilija)
+  - Language: Portuguese_Brazil
+    String: Escudos (Matilija)
+  - Language: ChineseSimplified
+    String: 盾牌（马蒂利亚）

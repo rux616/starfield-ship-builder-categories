@@ -8,14 +8,14 @@ ModHeader:
   - Master
   - Localized
   Stats:
-    NumRecords: 100
-    NextFormID: 2144
+    NumRecords: 208
+    NextFormID: 2252
   Author: rux616
   Description: >-
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.6.0
+    Version: 1.7.0
   MasterReferences:
   - Master: Starfield.esm
   - Master: BlueprintShips-Starfield.esm

@@ -1,0 +1,26 @@
+FormKey: 000884:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Hab_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Habs (Tiger)
+  - Language: English
+    String: Habs (Tiger)
+  - Language: Spanish
+    String: Habs (tigre)
+  - Language: French
+    String: Tricolore (Tigre)
+  - Language: Italian
+    String: Habs (Tigre)
+  - Language: Japanese
+    String: ハブス（タイガー）
+  - Language: Polish
+    String: Habs (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Habs (Tigre)
+  - Language: ChineseSimplified
+    String: 哈布斯（老虎）

@@ -1,0 +1,26 @@
+FormKey: 00089E:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Engine_Avontech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Motoren (Avontech)
+  - Language: English
+    String: Engines (Avontech)
+  - Language: Spanish
+    String: Motores (Avontech)
+  - Language: French
+    String: Moteurs (Avontech)
+  - Language: Italian
+    String: Motori (Avontech)
+  - Language: Japanese
+    String: エンジン (エイボンテック)
+  - Language: Polish
+    String: Silniki (Avontech)
+  - Language: Portuguese_Brazil
+    String: Motores (Avontech)
+  - Language: ChineseSimplified
+    String: 发动机（雅芳科技）

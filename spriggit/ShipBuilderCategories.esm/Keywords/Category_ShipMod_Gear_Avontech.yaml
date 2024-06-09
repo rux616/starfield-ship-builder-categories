@@ -1,0 +1,26 @@
+FormKey: 0008A2:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Gear_Avontech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Ausrüstung (Avontech)
+  - Language: English
+    String: Gear (Avontech)
+  - Language: Spanish
+    String: Equipo (Avontech)
+  - Language: French
+    String: Équipement (Avontech)
+  - Language: Italian
+    String: Ingranaggio (Avontech)
+  - Language: Japanese
+    String: ギア (エイボンテック)
+  - Language: Polish
+    String: Sprzęt (Avontech)
+  - Language: Portuguese_Brazil
+    String: Engrenagem (Avontech)
+  - Language: ChineseSimplified
+    String: 齿轮（雅芳科技）

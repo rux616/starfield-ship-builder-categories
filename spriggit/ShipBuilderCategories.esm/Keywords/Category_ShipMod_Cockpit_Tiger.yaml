@@ -1,0 +1,26 @@
+FormKey: 000896:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cockpit_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Cockpits (Tiger)
+  - Language: English
+    String: Cockpits (Tiger)
+  - Language: Spanish
+    String: Cabinas (Tigre)
+  - Language: French
+    String: Cockpits (Tigre)
+  - Language: Italian
+    String: Cockpit (Tigre)
+  - Language: Japanese
+    String: コックピット（タイガー）
+  - Language: Polish
+    String: Kokpity (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Cockpits (Tigre)
+  - Language: ChineseSimplified
+    String: 驾驶舱（虎式）

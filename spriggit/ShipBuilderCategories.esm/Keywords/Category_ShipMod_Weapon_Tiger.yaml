@@ -1,0 +1,26 @@
+FormKey: 00088E:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Weapon_Tiger
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Waffen (Tiger)
+  - Language: English
+    String: Weapons (Tiger)
+  - Language: Spanish
+    String: Armas (Tigre)
+  - Language: French
+    String: Armes (Tigre)
+  - Language: Italian
+    String: Armi (Tigre)
+  - Language: Japanese
+    String: 武器（タイガー）
+  - Language: Polish
+    String: Broń (Tygrys)
+  - Language: Portuguese_Brazil
+    String: Armas (Tigre)
+  - Language: ChineseSimplified
+    String: 武器（虎）

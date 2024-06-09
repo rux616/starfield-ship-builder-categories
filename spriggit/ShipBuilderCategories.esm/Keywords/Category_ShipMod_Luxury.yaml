@@ -1,0 +1,26 @@
+FormKey: 00087C:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Luxury
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: LuxuryLines
+  - Language: English
+    String: LuxuryLines
+  - Language: Spanish
+    String: Líneas de lujo
+  - Language: French
+    String: Lignes de luxe
+  - Language: Italian
+    String: Linee di lusso
+  - Language: Japanese
+    String: 高級ライン
+  - Language: Polish
+    String: Luksusowe Linie
+  - Language: Portuguese_Brazil
+    String: Linhas de luxo
+  - Language: ChineseSimplified
+    String: 豪华航线

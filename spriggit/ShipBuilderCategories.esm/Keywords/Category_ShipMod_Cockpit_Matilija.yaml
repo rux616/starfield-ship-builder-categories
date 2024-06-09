@@ -1,0 +1,26 @@
+FormKey: 0008AE:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cockpit_Matilija
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Cockpits (Matilija)
+  - Language: English
+    String: Cockpits (Matilija)
+  - Language: Spanish
+    String: Cabinas (Matilija)
+  - Language: French
+    String: Cockpits (Matilija)
+  - Language: Italian
+    String: Cabine di pilotaggio (Matilija)
+  - Language: Japanese
+    String: コックピット (マティリヤ)
+  - Language: Polish
+    String: Kokpity (Matilija)
+  - Language: Portuguese_Brazil
+    String: Cockpits (Matilija)
+  - Language: ChineseSimplified
+    String: 驾驶舱（马蒂利亚）

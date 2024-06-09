@@ -1,0 +1,26 @@
+FormKey: 00087E:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Cob
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Cob's Zoll
+  - Language: English
+    String: Cob's Customs
+  - Language: Spanish
+    String: Aduanas de Cob
+  - Language: French
+    String: Les coutumes de Cob
+  - Language: Italian
+    String: Le usanze di Cob
+  - Language: Japanese
+    String: コブの習慣
+  - Language: Polish
+    String: Zwyczaje Coba
+  - Language: Portuguese_Brazil
+    String: Alfândega de Cob
+  - Language: ChineseSimplified
+    String: 科布的习俗
