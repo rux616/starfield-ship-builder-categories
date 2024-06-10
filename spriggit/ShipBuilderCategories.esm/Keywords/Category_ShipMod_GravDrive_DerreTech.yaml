@@ -1,0 +1,26 @@
+FormKey: 0008CE:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_GravDrive_DerreTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Gravitationsantriebe (DerreTech)
+  - Language: English
+    String: Grav Drives (DerreTech)
+  - Language: Spanish
+    String: Unidades gravitacionales (DerreTech)
+  - Language: French
+    String: Lecteurs gravitationnels (DerreTech)
+  - Language: Italian
+    String: Unità gravitazionali (DerreTech)
+  - Language: Japanese
+    String: グラヴドライブ（デレテック）
+  - Language: Polish
+    String: Napędy grawitacyjne (DerreTech)
+  - Language: Portuguese_Brazil
+    String: Unidades Grav (DerreTech)
+  - Language: ChineseSimplified
+    String: 重力驱动器 (DerreTech)

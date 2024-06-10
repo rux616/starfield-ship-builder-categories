@@ -1,0 +1,26 @@
+FormKey: 0008D1:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Equipment_DerreTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Ausrüstung (DerreTech)
+  - Language: English
+    String: Equipment (DerreTech)
+  - Language: Spanish
+    String: Equipo (DerreTech)
+  - Language: French
+    String: Équipement (DerreTech)
+  - Language: Italian
+    String: Attrezzatura (DerreTech)
+  - Language: Japanese
+    String: 装備品（デレテック）
+  - Language: Polish
+    String: Sprzęt (DerreTech)
+  - Language: Portuguese_Brazil
+    String: Equipamentos (DerreTech)
+  - Language: ChineseSimplified
+    String: 设备（DerreTech）
