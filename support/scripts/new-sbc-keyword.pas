@@ -113,19 +113,6 @@ begin
     SetElementEditValues(new_kywd, 'FULL', new_keyword_name);
     AddMessage('Created ' + ShortName(new_kywd));
 
-    // create DFOB record
-    new_dfob := Add(GroupBySignature(sbc_file, 'DFOB'), 'DFOB', True);
-    if (not Assigned(new_dfob)) then begin
-        AddMessage('Error: Could not create DFOB record');
-        result := 1;
-        exit;
-    end;
-    // populate DFOB record
-    SetEditorID(new_dfob, DFOB_EDID_PREFIX + StringReplace(new_keyword_edid, '_', '', [rfReplaceAll]) + DFOB_EDID_SUFFIX);
-    SetElementNativeValues(new_dfob, 'DATA', FormID(new_kywd));
-    AddMessage('Created ' + ShortName(new_dfob));
-    AddMessage('Added ' + ShortName(new_kywd) + ' to ' + ShortName(new_dfob));
-
     // add KYWD to FLST
     category_flst := RecordByFormID(sbc_file, CATEGORY_FLST_FORM_ID, True);
     if (not Assigned(category_flst)) then begin
