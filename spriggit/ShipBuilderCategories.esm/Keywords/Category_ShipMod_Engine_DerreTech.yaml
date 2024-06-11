@@ -1,0 +1,26 @@
+FormKey: 0008D0:ShipBuilderCategories.esm
+EditorID: Category_ShipMod_Engine_DerreTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Values:
+  - Language: German
+    String: Motoren (DerreTech)
+  - Language: English
+    String: Engines (DerreTech)
+  - Language: Spanish
+    String: Motores (DerreTech)
+  - Language: French
+    String: Moteurs (DerreTech)
+  - Language: Italian
+    String: Motori (DerreTech)
+  - Language: Japanese
+    String: エンジン（デレテック）
+  - Language: Polish
+    String: Silniki (DerreTech)
+  - Language: Portuguese_Brazil
+    String: Motores (DerreTech)
+  - Language: ChineseSimplified
+    String: 发动机（德瑞科技）

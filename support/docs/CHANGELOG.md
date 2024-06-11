@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.8.0](#v180)
     - [v1.7.0](#v170)
     - [v1.6.0](#v160)
     - [v1.5.0](#v150)
@@ -18,6 +19,21 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.8.0
+------
+- Removed DFOB (Default Object) records (you can't add them inside the CK, so they probably shouldn't be there)
+- Added category "Cargo (DerreTech)" (Category_ShipMod_Cargo_DerreTech [KYWD:xx0008D2])
+- Added category "Engines (DerreTech)" (Category_ShipMod_Engine_DerreTech [KYWD:xx0008D0])
+- Added category "Equipment (DerreTech)" (Category_ShipMod_Equipment_DerreTech [KYWD:xx0008D1])
+- Added category "Fuel Tanks (DerreTech)" (Category_ShipMod_FuelTank_DerreTech [KYWD:xx0008CF])
+- Added category "Gear (DerreTech)" (Category_ShipMod_Gear_DerreTech [KYWD:xx0008CD])
+- Added category "Grav Drives (DerreTech)" (Category_ShipMod_GravDrive_DerreTech [KYWD:xx0008CE])
+- Added category "Reactors (DerreTech)" (Category_ShipMod_Reactor_DerreTech [KYWD:xx0008CC])
+- Added category "Shields (DerreTech)" (Category_ShipMod_Shields_DerreTech [KYWD:xx0008D3])
+- Updated xEdit script to stop creating DFOB records
+
+([TOC](#table-of-contents))
 
 v1.7.0
 ------
