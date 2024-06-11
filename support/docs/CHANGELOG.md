@@ -22,7 +22,7 @@ Changelog
 
 v1.8.0
 ------
-- Removed DFOB (Default Object) records (you can't add them inside the CK, so therefore they probably should be there)
+- Removed DFOB (Default Object) records (you can't add them inside the CK, so they probably shouldn't be there)
 - Added category "Cargo (DerreTech)" (Category_ShipMod_Cargo_DerreTech [KYWD:xx0008D2])
 - Added category "Engines (DerreTech)" (Category_ShipMod_Engine_DerreTech [KYWD:xx0008D0])
 - Added category "Equipment (DerreTech)" (Category_ShipMod_Equipment_DerreTech [KYWD:xx0008D1])
