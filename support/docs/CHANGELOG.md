@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.8.1](#v181)
     - [v1.8.0](#v180)
     - [v1.7.0](#v170)
     - [v1.6.0](#v160)
@@ -19,6 +20,12 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.8.1
+------
+- Fixed up some more Chinese translations (Thanks Voicesaa!)
+
+([TOC](#table-of-contents))
 
 v1.8.0
 ------
