@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.8.1
+Version: 1.9.0
 
 Table Of Contents
 -----------------
@@ -193,6 +193,9 @@ Added
 - "Decorative Weapons (Utility)" (Category_ShipMod_Decorative_Weapon_Utility [KYWD:xx000830])
 - "DerreTech" (Category_ShipMod_DerreTech [KYWD:xx000831])
 - "Dockers (Avontech)" (Category_ShipMod_Docker_Avontech [KYWD:xx0008A0])
+- "Dockers (DerreTech)" (Category_ShipMod_Docker_DerreTech [KYWD:xx0008D7])
+- "Dockers (Matilija)" (Category_ShipMod_Docker_Matilija [KYWD:xx0008D6])
+- "Dockers (Tiger)" (Category_ShipMod_Docker_Tiger [KYWD:xx0008D4])
 - "Doors" (Category_ShipMod_Doors [KYWD:xx0008CA])
 - "Engines (Avontech)" (Category_ShipMod_Engine_Avontech [KYWD:xx00089E])
 - "Engines (DarkStar)" (Category_ShipMod_Engine_DarkStar [KYWD:xx00086A])
@@ -204,6 +207,7 @@ Added
 - "Equipment (DarkStar)" (Category_ShipMod_Equipment_DarkStar [KYWD:xx000872])
 - "Equipment (DerreTech)" (Category_ShipMod_Equipment_DerreTech [KYWD:xx0008D1])
 - "Equipment (Matilija)" (Category_ShipMod_Equipment_Matilija [KYWD:xx0008C2])
+- "Equipment (Tiger)" (Category_ShipMod_Equipment_Tiger [KYWD:xx0008D5])
 - "Fuel Tanks (Avontech)" (Category_ShipMod_FuelTank_Avontech [KYWD:xx0008A4])
 - "Fuel Tanks (DarkStar)" (Category_ShipMod_FuelTank_DarkStar [KYWD:xx000876])
 - "Fuel Tanks (DerreTech)" (Category_ShipMod_FuelTank_DerreTech [KYWD:xx0008CF])
@@ -291,6 +295,9 @@ Full List
 - "Cockpits (Supp)" (Category_ShipMod_Cockpit_Supp [KYWD:xx00080C])
 - "Dockers" (Category_ShipMod_Docker [KYWD:0029C472])
 - "Dockers (Avontech)" (Category_ShipMod_Docker_Avontech [KYWD:xx0008A0])
+- "Dockers (DerreTech)" (Category_ShipMod_Docker_DerreTech [KYWD:xx0008D7])
+- "Dockers (Matilija)" (Category_ShipMod_Docker_Matilija [KYWD:xx0008D6])
+- "Dockers (Tiger)" (Category_ShipMod_Docker_Tiger [KYWD:xx0008D4])
 - "Engines" (Category_ShipMod_Engine [KYWD:0029C46D])
 - "Engines (Avontech)" (Category_ShipMod_Engine_Avontech [KYWD:xx00089E])
 - "Engines (DarkStar)" (Category_ShipMod_Engine_DarkStar [KYWD:xx00086A])
@@ -304,6 +311,7 @@ Full List
 - "Equipment (DarkStar)" (Category_ShipMod_Equipment_DarkStar [KYWD:xx000872])
 - "Equipment (DerreTech)" (Category_ShipMod_Equipment_DerreTech [KYWD:xx0008D1])
 - "Equipment (Matilija)" (Category_ShipMod_Equipment_Matilija [KYWD:xx0008C2])
+- "Equipment (Tiger)" (Category_ShipMod_Equipment_Tiger [KYWD:xx0008D5])
 - "Decorative Equipment" (Category_ShipMod_Decorative_Equipment [KYWD:xx000832])
 - "Fuel Tanks" (Category_ShipMod_FuelTank [KYWD:0029C478])
 - "Fuel Tanks (Avontech)" (Category_ShipMod_FuelTank_Avontech [KYWD:xx0008A4])
