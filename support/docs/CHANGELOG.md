@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.9.0](#v190)
     - [v1.8.1](#v181)
     - [v1.8.0](#v180)
     - [v1.7.0](#v170)
@@ -20,6 +21,17 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.9.0
+------
+- Added basic xEdit-centric HOWTO document
+- Cleaned up more Chinese translations
+- Added category "Dockers (DerreTech)" (Category_ShipMod_Docker_DerreTech [KYWD:xx0008D7])
+- Added category "Dockers (Matilija)" (Category_ShipMod_Docker_Matilija [KYWD:xx0008D6])
+- Added category "Dockers (Tiger)" (Category_ShipMod_Docker_Tiger [KYWD:xx0008D4])
+- Added category "Equipment (Tiger)" (Category_ShipMod_Equipment_Tiger [KYWD:xx0008D5])
+
+([TOC](#table-of-contents))
 
 v1.8.1
 ------
