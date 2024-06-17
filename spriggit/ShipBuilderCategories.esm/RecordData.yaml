@@ -6,16 +6,17 @@ GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
-  - Localized
+  FormVersion: 559
   Stats:
-    NumRecords: 117
-    NextFormID: 2264
+    NumRecords: 116
+    NextFormID: 16779810
   Author: rux616
   Description: >-
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.9.0
+    Version: 1.10.0
   MasterReferences:
   - Master: Starfield.esm
-  - Master: BlueprintShips-Starfield.esm
+  BNAM: 0x4D61696E00
+  INCC: 0

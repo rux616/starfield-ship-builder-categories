@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.10.0](#v1100)
     - [v1.9.0](#v190)
     - [v1.8.1](#v181)
     - [v1.8.0](#v180)
@@ -21,6 +22,18 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.10.0
+-------
+- Remade plugin with the Starfield Creation Kit
+- Added Creation Kit-specific directions to the HOWTO document
+- Removed translations because the Creation Kit does not offer any way to do them
+- Removed category "Doors" (Category_ShipMod_Doors [KYWD:xx0008CA])
+- All Ship Builder Categories-added keywords now have their Editor IDs prefixed with "SBC_" to make them easier to find and filter for in the Creation Kit
+- Adjusted some of the Editor IDs of the keywords to include whether they were referencing manufacturer or type
+- Adjusted the display names of categories referring to a manufacturer: The manufacturer name is now in square brackets ("[" and "]")
+
+([TOC](#table-of-contents))
 
 v1.9.0
 ------

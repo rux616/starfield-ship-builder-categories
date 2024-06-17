@@ -1,0 +1,9 @@
+FormKey: 000830:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Weapon_Typ_Utility_Decorative
+FormVersion: 559
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Weapons (Utility) (Decorative)

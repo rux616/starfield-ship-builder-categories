@@ -1,0 +1,9 @@
+FormKey: 000809:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Weapon_Typ_Particle_Decorative
+FormVersion: 559
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Weapons (Particle) (Decorative)

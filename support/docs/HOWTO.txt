@@ -5,7 +5,20 @@ This document will go over how to add the categories from Ship Builder Categorie
 
 Creation Kit
 ------------
-(TODO)
+- Ensure that Ship Builder Categories is installed.
+- Open the Starfield Creation Kit.
+- Load Ship Builder Categories master file in the Creation Kit.
+    - If you're making a patch, ensure that any other master file you need also gets loaded.
+    - If you're editing your mod directly, make sure to set its ESP file as "active".
+- Find your Constructable Object record in the Object Window under "Items" -> "Constructable Object".
+- Double click the Constructable Object record to open it.
+- In the "Recipe Filters" box, right click a blank space and choose "Add".
+- In the "Select Form" window that opens, choose the keyword you want. Either double click the keyword or single click it then click the "OK" button to choose.
+    - HINT: In the "Filter" text box, type in "SBC_" to see only the Ship Builder Categories keywords.
+    - HINT: In the header at the top of the area where it lists the keywords, double click on the bar divider between "Form" and "Type" to expand the field to show the entirety of the keyword Editor ID.
+- Make sure that your chosen keyword is the only thing in the list. The "Recipe Filters" box can show more than one keyword, but the ship module will only show up in the category specified by the top-most keyword.
+- Click "OK" to close the record and save your changes.
+- Save your file.
 
 
 xEdit

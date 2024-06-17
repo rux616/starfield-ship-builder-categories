@@ -1,0 +1,9 @@
+FormKey: 00084C:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Hab_Mfr_DerreTech
+FormVersion: 559
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Habs [DerreTech]
