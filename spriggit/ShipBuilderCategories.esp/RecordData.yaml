@@ -1,11 +1,9 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
   Version: 0.18.0
-ModKey: ShipBuilderCategories.esm
+ModKey: ShipBuilderCategories.esp
 GameRelease: Starfield
 ModHeader:
-  Flags:
-  - Master
   FormVersion: 559
   Stats:
     NumRecords: 116
@@ -19,4 +17,3 @@ ModHeader:
   MasterReferences:
   - Master: Starfield.esm
   BNAM: 0x4D61696E00
-  INCC: 0
