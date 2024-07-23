@@ -34,7 +34,7 @@ Summary
 -------
 (Adds categories to the Ship Builder for use by other mods.)
 
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords (with translations!) that are then available for use in other mods. It also adds these keywords to the Ship Builder category list. The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to the Ship Builder category list. The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
@@ -61,7 +61,7 @@ NOTE: This mod must be above any of those that require it in your load order or 
 
 Requirements
 ------------
-- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
+- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157) if using Starfield prior to v1.12.30
 
 Recommendations
 ---------------
