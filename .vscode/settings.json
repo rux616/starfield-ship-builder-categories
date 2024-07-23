@@ -40,5 +40,8 @@
     "Wyrd",
     "zhhans",
     "zilav"
-  ]
+  ],
+  "markdownlint.config": {
+    "MD034": false
+  }
 }
