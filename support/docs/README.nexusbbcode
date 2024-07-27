@@ -1,7 +1,7 @@
 [size=5][b]Ship Builder Categories[/b][/size]
 by rux616
 
-Version: 1.10.0
+Version: 1.11.0
 
 [size=4][b][u]Table Of Contents:[/u][/b][/size]
 - Ship Builder Categories
@@ -30,14 +30,14 @@ Version: 1.10.0
 [size=4][b][u]Summary:[/u][/b][/size]
 (Adds categories to the Ship Builder for use by other mods.)
 
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords (with translations!) that are then available for use in other mods. It also adds these keywords to the Ship Builder category list. The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
 For the complete list of categories (both vanilla and included in this mod), please see the list of categories at the bottom of this document.
 
 [size=4][b][u]Compatibility:[/u][/b][/size]
-Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
+Will conflict with other mods that do their own edits to the Spaceship All Category List default object (SpaceshipAllCategoryList_DO [DFOB:002A39C9]) or the Recipe Manager List form ID list (RecipeManagerList [FLST:002C59D7]).
 
 [size=4][b][u]Known Issues:[/u][/b][/size]
 None
@@ -47,7 +47,7 @@ None
 NOTE: This mod must be above any of those that require it in your load order or you [b]will[/b] get a CTD.
 
 [size=4][b][u]Requirements:[/u][/b][/size]
-- [url=https://www.nexusmods.com/starfield/mods/4157]Plugins.txt Enabler[/url]
+- [url=https://www.nexusmods.com/starfield/mods/4157]Plugins.txt Enabler[/url] if using Starfield prior to v1.12.30
 
 [size=4][b][u]Recommendations:[/u][/b][/size]
 NOTE: StarUI Ship Builder v1.2 doesn't work with Starfield v1.11.36+, so if you're running that version of the mod with that version of Starfield, you'll have to go without for the moment.
@@ -89,7 +89,7 @@ Make sure your [font=Courier New][color=#b2b2b2]StarfieldCustom.ini[/color][/fon
 ElminsterAU: For xEdit and BSArch
 Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
 Nexus Mods: For mod hosting and for the Vortex Mod Manager
-TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod, as well as the "Habs (Shells)" category
+TheOGTennessee: For the initial batch of categories, alongside my own, which inspired this mod, as well as the "Habs (Shells)" category. Also for alerting me to an upcoming issue and coming up with a way to deal with it.
 metalsnakegear: For the "Shield Booster", "Grav Booster", and vanilla manufacturer-based "Habs (...)" categories
 WyrdOh: For the "Engines (Economy)" and "Engines (Overtuned)" categories
 remosito: For the "BoostR" category

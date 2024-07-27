@@ -1,21 +1,18 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.18.0
+  Version: 0.25.0
 ModKey: ShipBuilderCategories.esm
 GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
   FormVersion: 559
-  Stats:
-    NumRecords: 116
-    NextFormID: 16779810
   Author: rux616
   Description: >-
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.10.0
+    Version: 1.11.0
   MasterReferences:
   - Master: Starfield.esm
   BNAM: 0x4D61696E00
