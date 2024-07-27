@@ -1,7 +1,6 @@
-FormKey: 2C2E94:Starfield.esm
-EditorID: ShipModuleRecipeCategories
+FormKey: 000A2A:ShipBuilderCategories.esp
+EditorID: SBC_ShipModuleRecipeCategories
 FormVersion: 559
-Version2: 13
 Name:
   TargetLanguage: English
   Value: Ship Modules
@@ -143,3 +142,4 @@ Items:
 - 209117:Starfield.esm
 - 209116:Starfield.esm
 - 04B3C1:Starfield.esm
+ANAM: Null
