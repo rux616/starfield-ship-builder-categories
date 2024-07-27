@@ -30,7 +30,6 @@ v1.11.0
 
 ([TOC](#table-of-contents))
 
-
 v1.10.0
 -------
 - Remade plugin with the Starfield Creation Kit

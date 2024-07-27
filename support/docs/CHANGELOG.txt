@@ -28,7 +28,6 @@ v1.11.0
 -------
 - Change how the mod makes its changes to make it a bit more future-proof
 
-
 v1.10.0
 -------
 - Remade plugin with the Starfield Creation Kit
