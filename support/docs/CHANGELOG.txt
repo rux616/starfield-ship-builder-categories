@@ -6,6 +6,7 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.11.0
     - v1.10.0
     - v1.9.0
     - v1.8.1
@@ -22,6 +23,11 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.11.0
+-------
+- Change how the mod makes its changes to make it a bit more future-proof
+
 
 v1.10.0
 -------
