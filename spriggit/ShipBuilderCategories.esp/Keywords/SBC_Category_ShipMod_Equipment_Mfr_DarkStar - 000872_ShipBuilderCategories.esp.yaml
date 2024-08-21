@@ -1,6 +1,6 @@
 FormKey: 000872:ShipBuilderCategories.esp
 EditorID: SBC_Category_ShipMod_Equipment_Mfr_DarkStar
-FormVersion: 559
+FormVersion: 575
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000
