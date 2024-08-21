@@ -1,6 +1,6 @@
 FormKey: 000800:ShipBuilderCategories.esm
 EditorID: SBC_Category_ShipMod_Cargo_Typ_Decorative
-FormVersion: 559
+FormVersion: 575
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000

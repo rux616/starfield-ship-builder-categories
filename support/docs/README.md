@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.11.0
+Version: 1.12.0
 
 Table Of Contents
 -----------------
@@ -34,7 +34,7 @@ Summary
 -------
 (Adds categories to the Ship Builder for use by other mods.)
 
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always have donations disabled and remain opted out of DP.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
@@ -61,7 +61,7 @@ NOTE: This mod must be above any of those that require it in your load order or 
 
 Requirements
 ------------
-- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157) if using Starfield prior to v1.12.30
+- Starfield v1.13.61.0+
 
 Recommendations
 ---------------
@@ -305,6 +305,7 @@ Full List
 - "Equipment [Matilija]" (SBC_Category_ShipMod_Equipment_Mfr_Matilija [KYWD:xx0008C2])
 - "Equipment [Tiger]" (SBC_Category_ShipMod_Equipment_Mfr_Tiger [KYWD:xx0008D5])
 - "Fuel Tanks" (Category_ShipMod_FuelTank [KYWD:0029C478])
+- "Fuel Tanks (Booster)" (SBC_Category_ShipMod_FuelTank_Typ_Booster [KYWD:xx000A40])
 - "Fuel Tanks (Decorative)" (SBC_Category_ShipMod_FuelTank_Typ_Decorative [KYWD:xx000802])
 - "Fuel Tanks [Avontech]" (SBC_Category_ShipMod_FuelTank_Mfr_Avontech [KYWD:xx0008A4])
 - "Fuel Tanks [DarkStar]" (SBC_Category_ShipMod_FuelTank_Mfr_DarkStar [KYWD:xx000876])
@@ -366,6 +367,7 @@ Full List
 - "Structural [Tiger]" (SBC_Category_ShipMod_Structure_Mfr_Tiger [KYWD:xx000894])
 - "Thrusters" (SBC_Category_ShipMod_Thruster [KYWD:xx000817])
 - "Utility" (SBC_Category_ShipMod_Utility [KYWD:xx000810])
+- "Vehicles" (Category_ShipMod_Vehicle [KYWD:FE000049])
 - "Weapons" (Category_ShipMod_Weapon [KYWD:002C155B])
 - "Weapons (Ballistic)" (SBC_Category_ShipMod_Weapon_Typ_Ballistic [KYWD:xx000813])
 - "Weapons (Ballistic) (Decorative)" (SBC_Category_ShipMod_Weapon_Typ_Ballistic_Decorative [KYWD:xx00080A])

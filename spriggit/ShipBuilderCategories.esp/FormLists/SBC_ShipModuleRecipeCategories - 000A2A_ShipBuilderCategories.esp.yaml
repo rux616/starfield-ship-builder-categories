@@ -1,6 +1,6 @@
 FormKey: 000A2A:ShipBuilderCategories.esp
 EditorID: SBC_ShipModuleRecipeCategories
-FormVersion: 559
+FormVersion: 575
 Name:
   TargetLanguage: English
   Value: Ship Modules
@@ -42,6 +42,7 @@ Items:
 - 0008C2:ShipBuilderCategories.esp
 - 0008D5:ShipBuilderCategories.esp
 - 29C478:Starfield.esm
+- 000A40:ShipBuilderCategories.esp
 - 000802:ShipBuilderCategories.esp
 - 0008A4:ShipBuilderCategories.esp
 - 000876:ShipBuilderCategories.esp
@@ -103,6 +104,7 @@ Items:
 - 000894:ShipBuilderCategories.esp
 - 000817:ShipBuilderCategories.esp
 - 000810:ShipBuilderCategories.esp
+- 000049:SFBGS004.esm
 - 2C155B:Starfield.esm
 - 000813:ShipBuilderCategories.esp
 - 00080A:ShipBuilderCategories.esp

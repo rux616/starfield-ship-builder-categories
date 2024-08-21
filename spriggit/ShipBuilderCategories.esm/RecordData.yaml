@@ -6,14 +6,15 @@ GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
-  FormVersion: 559
+  FormVersion: 575
   Author: rux616
   Description: >-
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.11.0
+    Version: 1.12.0
   MasterReferences:
   - Master: Starfield.esm
+  - Master: SFBGS004.esm
   BNAM: 0x4D61696E00
   INCC: 0

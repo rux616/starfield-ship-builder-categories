@@ -12,7 +12,7 @@ var
   i: integer;
 begin
 	if (Signature(e) = 'GBFM') then begin
-		components := ElementByPath(e, 'Components');
+		components := ElementByPath(e, 'Base Form Components');
 		for i := 0 to Pred(ElementCount(components)) do begin
 			component := ElementByIndex(components, i);
 			element_name := ElementByPath(component, 'Component Data - Fullname\FULL - Name');
