@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.12.0](#v1120)
     - [v1.11.0](#v1110)
     - [v1.10.0](#v1100)
     - [v1.9.0](#v190)
@@ -23,6 +24,13 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.12.0
+-------
+- Added category "Fuel Tanks (Booster)" (SBC_Category_ShipMod_FuelTank_Typ_Booster [KYWD:xxYYYYYY])
+- Integrated category "Vehicles" (Category_ShipMod_Vehicle [FExxx049]) from SFBGS004.esm
+
+([TOC](#table-of-contents))
 
 v1.11.0
 -------
