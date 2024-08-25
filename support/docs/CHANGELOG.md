@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.13.0](#v1130)
     - [v1.12.0](#v1120)
     - [v1.11.0](#v1110)
     - [v1.10.0](#v1100)
@@ -24,6 +25,14 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.13.0
+-------
+- Change how the mod makes its changes back to pre-v1.11.0 method
+- Removed manual insertion of category "Vehicles" (Category_ShipMod_Vehicle [FExxx049]) from SFBGS004.esm
+- Removed SFBGS004.esm as a master file
+
+([TOC](#table-of-contents))
 
 v1.12.0
 -------

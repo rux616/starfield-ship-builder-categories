@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.12.0
+Version: 1.13.0
 
 Table Of Contents
 -----------------
@@ -18,7 +18,6 @@ Table Of Contents
     - Upgrading
     - Mod Manager
     - Manual (NOT RECOMMENDED)
-    - Archive Invalidation
 - License
 - Credits and Acknowledgements
 - Contact
@@ -34,7 +33,7 @@ Summary
 -------
 (Adds categories to the Ship Builder for use by other mods.)
 
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to the Ship Builder category form list (ShipModuleRecipeCategories [FLST:002C2E94]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
@@ -42,7 +41,7 @@ For the complete list of categories (both vanilla and included in this mod), ple
 
 Compatibility
 -------------
-Will conflict with other mods that do their own edits to the Spaceship All Category List default object (SpaceshipAllCategoryList_DO [DFOB:002A39C9]) or the Recipe Manager List form ID list (RecipeManagerList [FLST:002C59D7]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
 
 Known Issues
 ------------
@@ -55,7 +54,7 @@ NOTE: This mod must be above any of those that require it in your load order or 
 
 Requirements
 ------------
-- Starfield v1.13.61.0+
+None
 
 Recommendations
 ---------------
@@ -78,19 +77,11 @@ When upgrading major versions (for example v1.whatever to v2.whatever), you need
 
 Mod Manager
 -----------
-Download and install the archive with either Mod Organizer 2 (https://github.com/ModOrganizer2/modorganizer/releases) (version 2.5.0 or later) or Vortex (https://www.nexusmods.com/site/mods/1). I personally recommend Mod Organizer 2 (with the optional Root Builder (https://kezyma.github.io/?p=rootbuilder) plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
+Download and install the archive with either Mod Organizer 2 (https://github.com/ModOrganizer2/modorganizer/releases) (version 2.5.2 or later) or Vortex (https://www.nexusmods.com/site/mods/1). I personally recommend Mod Organizer 2 (with the optional Root Builder (https://kezyma.github.io/?p=rootbuilder) plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
 
 Manual (NOT RECOMMENDED)
 ------------------------
 Extract the archive to your Starfield installation's "Data" folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield\Data"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with `*`.
-
-Archive Invalidation
---------------------
-Make sure your `StarfieldCustom.ini` file in the "Documents\My Games\Starfield" folder (or your profile folder if using a mod manager and profiles) contains the following:
-
-    [Archive]
-    bInvalidateOlderFiles=1
-    sResourceDataDirsFinal=
 
 
 License
