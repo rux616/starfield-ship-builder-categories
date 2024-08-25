@@ -5,7 +5,7 @@ It must be paired with other mods that actually utilize the added category keywo
 
 Summary
 -----
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to the Ship Builder category form list (ShipModuleRecipeCategories [FLST:002C2E94]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
@@ -14,7 +14,7 @@ This is a limited version of the README. The full version, including a list of a
 
 Compatibility
 -----
-Will conflict with other mods that do their own edits to the Spaceship All Category List default object (SpaceshipAllCategoryList_DO [DFOB:002A39C9]) or the Recipe Manager List form ID list (RecipeManagerList [FLST:002C59D7]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
 
 
 Known Issues

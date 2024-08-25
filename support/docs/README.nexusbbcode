@@ -1,7 +1,7 @@
 [size=5][b]Ship Builder Categories[/b][/size]
 by rux616
 
-Version: 1.12.0
+Version: 1.13.0
 
 [size=4][b][u]Table Of Contents:[/u][/b][/size]
 - Ship Builder Categories
@@ -16,7 +16,6 @@ Version: 1.12.0
     - Upgrading
     - Mod Manager
     - Manual (NOT RECOMMENDED)
-    - Archive Invalidation
 - License
 - Credits and Acknowledgements
 - Contact
@@ -30,14 +29,14 @@ Version: 1.12.0
 [size=4][b][u]Summary:[/u][/b][/size]
 (Adds categories to the Ship Builder for use by other mods.)
 
-This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to its own Ship Builder category list, and changes a couple other records so that the game uses this new Ship Builder category list (SBC_ShipModuleRecipeCategories [FLST:02000A2A]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
+This mod is pretty much what it says on the tin, but does nothing on its own. It adds a number of keywords that are then available for use in other mods. It also adds these keywords to the Ship Builder category form list (ShipModuleRecipeCategories [FLST:002C2E94]). The goal is to (hopefully) keep mods from stepping on one another in regards to category editing. Because this mod is meant to be a community resource, it will always be available for free, have donations disabled, and remain opted out of the Donation Points program.
 
 Mod Authors: Do you have a category you want included? Let's do it! Contact me and we can make it happen.
 
 For the complete list of categories (both vanilla and included in this mod), please see the list of categories at the bottom of this document.
 
 [size=4][b][u]Compatibility:[/u][/b][/size]
-Will conflict with other mods that do their own edits to the Spaceship All Category List default object (SpaceshipAllCategoryList_DO [DFOB:002A39C9]) or the Recipe Manager List form ID list (RecipeManagerList [FLST:002C59D7]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
 
 [size=4][b][u]Known Issues:[/u][/b][/size]
 None
@@ -47,7 +46,7 @@ None
 NOTE: This mod must be above any of those that require it in your load order or you [b]will[/b] get a CTD.
 
 [size=4][b][u]Requirements:[/u][/b][/size]
-- Starfield v1.13.61.0+
+None
 
 [size=4][b][u]Recommendations:[/u][/b][/size]
 NOTE: StarUI Ship Builder v1.2 doesn't work with Starfield v1.11.36+, so if you're running that version of the mod with that version of Starfield, you'll have to go without for the moment.
@@ -67,17 +66,10 @@ When upgrading major versions (for example v1.whatever to v2.whatever), you need
 - Install the new version of the plugin
 
 [size=4][b][u]Mod Manager:[/u][/b][/size]
-Download and install the archive with either [url=https://github.com/ModOrganizer2/modorganizer/releases]Mod Organizer 2[/url] (version 2.5.0 or later) or [url=https://www.nexusmods.com/site/mods/1]Vortex[/url]. I personally recommend Mod Organizer 2 (with the optional [url=https://kezyma.github.io/?p=rootbuilder]Root Builder[/url] plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
+Download and install the archive with either [url=https://github.com/ModOrganizer2/modorganizer/releases]Mod Organizer 2[/url] (version 2.5.2 or later) or [url=https://www.nexusmods.com/site/mods/1]Vortex[/url]. I personally recommend Mod Organizer 2 (with the optional [url=https://kezyma.github.io/?p=rootbuilder]Root Builder[/url] plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
 
 [size=4][b][u]Manual (NOT RECOMMENDED):[/u][/b][/size]
 Extract the archive to your Starfield installation's "Data" folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield\Data"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with [font=Courier New][color=#b2b2b2]*[/color][/font].
-
-[size=4][b][u]Archive Invalidation:[/u][/b][/size]
-Make sure your [font=Courier New][color=#b2b2b2]StarfieldCustom.ini[/color][/font] file in the "Documents\My Games\Starfield" folder (or your profile folder if using a mod manager and profiles) contains the following:
-
-    [font=Courier New][color=#b2b2b2][Archive][/color][/font]
-    [font=Courier New][color=#b2b2b2]bInvalidateOlderFiles=1[/color][/font]
-    [font=Courier New][color=#b2b2b2]sResourceDataDirsFinal=[/color][/font]
 
 
 [size=5][b]License[/b][/size]
