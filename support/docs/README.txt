@@ -58,8 +58,6 @@ None
 
 Recommendations
 ---------------
-NOTE: StarUI Ship Builder v1.2 doesn't work with Starfield v1.11.36+, so if you're running that version of the mod with that version of Starfield, you'll have to go without for the moment.
-
 - StarUI Ship Builder (https://www.nexusmods.com/starfield/mods/6402): Not actually required, but this mod arranges the categories in a vertical list and adds some filtering options, both of which greatly enhance usability.
 
 Upgrading
