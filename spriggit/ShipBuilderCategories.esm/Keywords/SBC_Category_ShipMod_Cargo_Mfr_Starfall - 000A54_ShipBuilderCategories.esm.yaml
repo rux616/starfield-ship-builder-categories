@@ -1,0 +1,9 @@
+FormKey: 000A54:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Cargo_Mfr_Starfall
+FormVersion: 576
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Cargo [Starfall]
