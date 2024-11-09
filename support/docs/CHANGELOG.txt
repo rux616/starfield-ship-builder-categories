@@ -6,6 +6,7 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.14.0
     - v1.13.0
     - v1.12.0
     - v1.11.0
@@ -25,6 +26,24 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.14.0
+-------
+- Added category "Bays [Starfall]" (SBC_Category_ShipMod_Bay_Mfr_Starfall [KYWD:xx000A53])
+- Added category "Cargo [Starfall]" (SBC_Category_ShipMod_Cargo_Mfr_Starfall [KYWD:xx000A54])
+- Added category "Cockpits [Starfall]" (SBC_Category_ShipMod_Cockpit_Mfr_Starfall [KYWD:xx000A55])
+- Added category "Dockers [Starfall]" (SBC_Category_ShipMod_Docker_Mfr_Starfall [KYWD:xx000A56])
+- Added category "Engines [Starfall]" (SBC_Category_ShipMod_Engine_Mfr_Starfall [KYWD:xx000A57])
+- Added category "Equipment [Starfall]" (SBC_Category_ShipMod_Equipment_Mfr_Starfall [KYWD:xx000A58])
+- Added category "Fuel Tanks [Starfall]" (SBC_Category_ShipMod_FuelTank_Mfr_Starfall [KYWD:xx000A59])
+- Added category "Gear [Starfall]" (SBC_Category_ShipMod_Gear_Mfr_Starfall [KYWD:xx000A5A])
+- Added category "Grav Drives [Starfall]" (SBC_Category_ShipMod_GravDrive_Mfr_Starfall [KYWD:xx000A5B])
+- Added category "Habs [Starfall]" (SBC_Category_ShipMod_Hab_Mfr_Starfall [KYWD:xx000A5C])
+- Added category "Mod [Starfall]" (SBC_Category_ShipMod_Mod_Starfall [KYWD:xx000A5D])
+- Added category "Reactors [Starfall]" (SBC_Category_ShipMod_Reactor_Mfr_Starfall [KYWD:xx000A5E])
+- Added category "Shields [Starfall]" (SBC_Category_ShipMod_Shields_Mfr_Starfall [KYWD:xx000A5F])
+- Added category "Structural [Starfall]" (SBC_Category_ShipMod_Structure_Mfr_Starfall [KYWD:xx000A60])
+- Added category "Weapons [Starfall]" (SBC_Category_ShipMod_Weapon_Mfr_Starfall [KYWD:xx000A61])
 
 v1.13.0
 -------

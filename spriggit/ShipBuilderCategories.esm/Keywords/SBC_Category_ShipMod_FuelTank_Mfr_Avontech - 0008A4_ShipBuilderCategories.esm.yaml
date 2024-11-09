@@ -1,6 +1,6 @@
 FormKey: 0008A4:ShipBuilderCategories.esm
 EditorID: SBC_Category_ShipMod_FuelTank_Mfr_Avontech
-FormVersion: 575
+FormVersion: 576
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000

@@ -47,4 +47,5 @@ If you need to contact me personally, I can be reached through one of the follow
     - Lively's Modding Hub (https://discord.gg/livelymods)
     - Nexus Mods (https://discord.gg/nexusmods)
     - Collective Modding (https://discord.gg/pF9U5FmD6w) ("🔧-chaotic-cognitions" channel)
+    - Starfield - Ship Distribution (https://discord.gg/wuvaYAsuAc)
     - Starfield Modding (https://discord.gg/6R4Yq5KjW2)
