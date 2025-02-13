@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.15.0](#v1150)
     - [v1.14.0](#v1140)
     - [v1.13.0](#v1130)
     - [v1.12.0](#v1120)
@@ -26,6 +27,51 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.15.0
+-------
+- Added category "Bays [OneK]" (SBC_Category_ShipMod_Bay_Mfr_OneK [KYWD:xx00082D])
+- Added category "Cargo [DerreTech Legacy]" (SBC_Category_ShipMod_Cargo_Mfr_DerreTechLegacy [KYWD:xx000834])
+- Added category "Cargo [Va'ruun'sev]" (SBC_Category_ShipMod_Cargo_Mfr_Varuunsev [KYWD:xx00081A])
+- Added category "Cockpits [DerreTech Legacy]" (SBC_Category_ShipMod_Cockpit_Mfr_DerreTechLegacy [KYWD:xx000835])
+- Added category "Cockpits [Va'ruun'sev]" (SBC_Category_ShipMod_Cockpit_Mfr_Varuunsev [KYWD:xx00081B])
+- Added category "Dockers [DerreTech Legacy]" (SBC_Category_ShipMod_Docker_Mfr_DerreTechLegacy [KYWD:xx000841])
+- Added category "Dockers [OneK]" (SBC_Category_ShipMod_Docker_Mfr_OneK [KYWD:xx00082E])
+- Added category "Dockers [Va'ruun'sev]" (SBC_Category_ShipMod_Docker_Mfr_Varuunsev [KYWD:xx00081C])
+- Added category "Engines [DerreTech Legacy]" (SBC_Category_ShipMod_Engine_Mfr_DerreTechLegacy [KYWD:xx000842])
+- Added category "Engines [Va'ruun'sev]" (SBC_Category_ShipMod_Engine_Mfr_Varuunsev [KYWD:xx00081D])
+- Added category "Equipment [DerreTech Legacy]" (SBC_Category_ShipMod_Equipment_Mfr_DerreTechLegacy [KYWD:xx000843])
+- Added category "Equipment [Va'ruun'sev]" (SBC_Category_ShipMod_Equipment_Mfr_Varuunsev [KYWD:xx00081E])
+- Added category "Fuel Tanks [DerreTech Legacy]" (SBC_Category_ShipMod_FuelTank_Mfr_DerreTechLegacy [KYWD:xx000844])
+- Added category "Fuel Tanks [Matilija]" (SBC_Category_ShipMod_FuelTank_Mfr_Matilija [KYWD:xx000819])
+- Added category "Fuel Tanks [Va'ruun'sev]" (SBC_Category_ShipMod_FuelTank_Mfr_Varuunsev [KYWD:xx00081F])
+- Added category "Gear [DerreTech Legacy]" (SBC_Category_ShipMod_Gear_Mfr_DerreTechLegacy [KYWD:xx000845])
+- Added category "Gear [Va'ruun'sev]" (SBC_Category_ShipMod_Gear_Mfr_Varuunsev [KYWD:xx000820])
+- Added category "Grav Drives [DerreTech Legacy]" (SBC_Category_ShipMod_GravDrive_Mfr_DerreTechLegacy [KYWD:xx000846])
+- Added category "Grav Drives [Va'ruun'sev]" (SBC_Category_ShipMod_GravDrive_Mfr_Varuunsev [KYWD:xx000821])
+- Added category "Habs [DerreTech Legacy]" (SBC_Category_ShipMod_Hab_Mfr_DerreTechLegacy [KYWD:xx000847])
+- Added category "Habs [TLMS]" (SBC_Category_ShipMod_Hab_Mfr_TLMS [KYWD:xx000828])
+- Added category "Habs [Va'ruun'sev]" (SBC_Category_ShipMod_Hab_Mfr_Varuunsev [KYWD:xx000822])
+- Added category "Mod [DerreTech Legacy]" (SBC_Category_ShipMod_Mod_DerreTechLegacy [KYWD:xx000848])
+- Added category "Mod [Glowing]" (SBC_Category_ShipMod_Mod_Glowing [KYWD:xx00082A])
+- Added category "Mod [OneK]" (SBC_Category_ShipMod_Mod_OneK [KYWD:xx000833])
+- Added category "Mod [TLMS]" (SBC_Category_ShipMod_Mod_TLMS [KYWD:xx000829])
+- Added category "Mod [Va'ruun'sev]" (SBC_Category_ShipMod_Mod_Varuunsev [KYWD:xx000823])
+- Added category "Reactors [DerreTech Legacy]" (SBC_Category_ShipMod_Reactor_Mfr_DerreTechLegacy [KYWD:xx000849])
+- Added category "Reactors [Matilija]" (SBC_Category_ShipMod_Reactor_Mfr_Matilija [KYWD:xx000818])
+- Added category "Reactors [Va'ruun'sev]" (SBC_Category_ShipMod_Reactor_Mfr_Varuunsev [KYWD:xx000824])
+- Added category "Reactors (Glowing)" (SBC_Category_ShipMod_Reactor_Typ_Glowing [KYWD:xx00082B])
+- Added category "Shields [DerreTech Legacy]" (SBC_Category_ShipMod_Shields_Mfr_DerreTechLegacy [KYWD:xx00084A])
+- Added category "Shields [Va'ruun'sev]" (SBC_Category_ShipMod_Shields_Mfr_Varuunsev [KYWD:xx000825])
+- Added category "Structural [DerreTech Legacy]" (SBC_Category_ShipMod_Structure_Mfr_DerreTechLegacy [KYWD:xx00084B])
+- Added category "Structural [OneK]" (SBC_Category_ShipMod_Structure_Mfr_OneK [KYWD:xx00082F])
+- Added category "Structural [Va'ruun'sev]" (SBC_Category_ShipMod_Structure_Mfr_Varuunsev [KYWD:xx000826])
+- Added category "Structural (Glowing)" (SBC_Category_ShipMod_Structure_Typ_Glowing [KYWD:xx00082C])
+- Added category "Weapons [DerreTech Legacy]" (SBC_Category_ShipMod_Weapon_Mfr_DerreTechLegacy [KYWD:xx00084E])
+- Added category "Weapons [Va'ruun'sev]" (SBC_Category_ShipMod_Weapon_Mfr_Varuunsev [KYWD:xx000827])
+- Fixed the link to mod on Nexus in README
+
+([TOC](#table-of-contents))
 
 v1.14.0
 -------
