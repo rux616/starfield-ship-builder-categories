@@ -10,7 +10,7 @@ ModHeader:
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.14.0
+    Version: 1.15.0
   MasterReferences:
   - Master: Starfield.esm
   BNAM: 0x4D61696E00

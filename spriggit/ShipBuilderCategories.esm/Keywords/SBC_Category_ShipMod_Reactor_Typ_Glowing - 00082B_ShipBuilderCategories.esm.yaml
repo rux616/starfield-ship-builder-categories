@@ -1,0 +1,9 @@
+FormKey: 00082B:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Reactor_Typ_Glowing
+FormVersion: 576
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Reactors (Glowing)

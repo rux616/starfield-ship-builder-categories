@@ -1,0 +1,9 @@
+FormKey: 000843:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Equipment_Mfr_DerreTechLegacy
+FormVersion: 576
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Equipment [DerreTech Legacy]
