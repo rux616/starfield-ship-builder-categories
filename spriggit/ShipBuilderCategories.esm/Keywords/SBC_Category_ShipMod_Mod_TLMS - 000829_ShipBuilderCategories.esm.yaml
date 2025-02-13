@@ -1,0 +1,9 @@
+FormKey: 000829:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Mod_TLMS
+FormVersion: 576
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Mod [TLMS]
