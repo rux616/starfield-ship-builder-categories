@@ -8,3 +8,22 @@
     - [ ] add pictures
 - [X] Re-make plugin in CK
 - [ ] ~~change to Small Master~~ (indefinite hold until load order behavior is fully understood)
+- [X] add "Bay" category for DerreTech, DerreTech Legacy Redux, Varuunsev
+- [X] add support for:
+    - [X] Falkland Systems [Falkland] (All)
+    - [X] Crimson Fleet Rearmed (Bays, Cargo, Cockpit, Docker, Fuel Tanks, Gear, Habs, Structural, Weapons)
+    - [X] Graf's Habs [Graf] (Habs)
+    - [X] Gtech [Gtech] (Habs)
+    - [X] Intrinity [Intrinity] (Habs, Structural)
+    - [X] Ship Extension [Ship Extension] (Habs)
+    - [X] Stroud Premium [Stroud Premium] (Habs)
+    - [X] Va'ruun Technical Institute [VTI] (Habs)
+    - [X] Mattell [Mattell] (Cockpits)
+    - [X] ZSW Airlocks [ZSW] (Structural, Weapons)
+    - [X] Fortuna [Fortuna] (Habs)
+    - [X] OwlTech [OwlTech] (Bays, Cockpits, Engines, Fuel Tanks, Gear, Grav Drives, Habs, Reactors, Shields, Structural, Weapons)
+    - [X] DP Aerospace  [DPA] (Bays, Cockpit, Fuel Tanks, Habs, Reactors)
+    - [X] Ship to Ship Transporter [Transporter] (Habs)
+    - [X] Trident Luxury [Trident] (Habs) (Creation: https://creations.bethesda.net/en/starfield/details/e9c8a803-6316-40d7-8244-b571b6d7e510/Trident_Luxury_Habitats)
+    - [X] Ship Wings [FenDragon] (Structural) (Creation: https://creations.bethesda.net/en/starfield/details/369ec096-4e51-4332-b0ab-6302f18ff4ee/Ship_Wings)
+- [ ] make xEdit scripts to add and sort categories
