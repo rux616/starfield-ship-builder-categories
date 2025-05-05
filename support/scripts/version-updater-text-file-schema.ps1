@@ -45,3 +45,12 @@ $text_files.Add(@{
                 replace = "`${1}" + $version.ToString()
             })
     })
+$text_files.Add(@{
+        # .\support\docs\README.creations.md
+        # Version: ...
+        file               = ".\support\docs\README.creations.md"
+        search_and_replace = @(@{
+                search  = "(Version: ).*"
+                replace = "`${1}" + $version.ToString()
+            })
+    })
