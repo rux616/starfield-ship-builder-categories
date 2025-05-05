@@ -1,6 +1,5 @@
 FormKey: 0008BE:ShipBuilderCategories.esp
 EditorID: SBC_Category_ShipMod_Cargo_Mfr_Matilija
-FormVersion: 576
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000
