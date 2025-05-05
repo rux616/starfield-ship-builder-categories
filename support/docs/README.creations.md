@@ -2,6 +2,7 @@ This mod does nothing on its own
 =====
 It must be paired with other mods that actually utilize the added category keywords.
 
+Version: 1.16.0
 
 Summary
 -----

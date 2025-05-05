@@ -1,6 +1,5 @@
 FormKey: 0008AA:ShipBuilderCategories.esp
 EditorID: SBC_Category_ShipMod_Structure_Mfr_Avontech
-FormVersion: 576
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000

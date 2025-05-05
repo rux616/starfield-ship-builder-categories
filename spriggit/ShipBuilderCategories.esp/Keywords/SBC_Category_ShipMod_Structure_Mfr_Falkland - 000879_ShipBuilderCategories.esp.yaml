@@ -1,0 +1,8 @@
+FormKey: 000879:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Structure_Mfr_Falkland
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Structural [Falkland]

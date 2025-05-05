@@ -1,0 +1,8 @@
+FormKey: 0008B9:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Reactor_Mfr_OwlTech
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Reactors [OwlTech]
