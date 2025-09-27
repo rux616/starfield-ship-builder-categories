@@ -1,6 +1,6 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.37.3
+  Version: 0.39.11
 ModKey: ShipBuilderCategories.esm
 GameRelease: Starfield
 ModHeader:
