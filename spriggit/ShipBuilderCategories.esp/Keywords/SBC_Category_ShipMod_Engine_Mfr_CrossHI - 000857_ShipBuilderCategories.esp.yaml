@@ -1,0 +1,8 @@
+FormKey: 000857:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Engine_Mfr_CrossHI
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Engines [Cross HI]
