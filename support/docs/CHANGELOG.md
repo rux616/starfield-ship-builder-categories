@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.17.0](#v1170)
     - [v1.16.0](#v1160)
     - [v1.15.0](#v1150)
     - [v1.14.0](#v1140)
@@ -28,6 +29,42 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.17.0
+-------
+- "Bays [Antares]" (SBC_Category_ShipMod_Bay_Mfr_Antares [KYWD:0100089B])
+- "Bays [Cross HI]" (SBC_Category_ShipMod_Bay_Mfr_CrossHI [KYWD:0100084F])
+- "Cargo [Antares]" (SBC_Category_ShipMod_Cargo_Mfr_Antares [KYWD:010008CB])
+- "Cargo [Cross HI]" (SBC_Category_ShipMod_Cargo_Mfr_CrossHI [KYWD:01000852])
+- "Cockpits [Antares]" (SBC_Category_ShipMod_Cockpit_Mfr_Antares [KYWD:010008D8])
+- "Cockpits [Cross HI]" (SBC_Category_ShipMod_Cockpit_Mfr_CrossHI [KYWD:01000853])
+- "Dockers [Antares]" (SBC_Category_ShipMod_Docker_Mfr_Antares [KYWD:010008D9])
+- "Dockers [Cross HI]" (SBC_Category_ShipMod_Docker_Mfr_CrossHI [KYWD:01000856])
+- "Engines [Antares]" (SBC_Category_ShipMod_Engine_Mfr_Antares [KYWD:010008DA])
+- "Engines [Cross HI]" (SBC_Category_ShipMod_Engine_Mfr_CrossHI [KYWD:01000857])
+- "Equipment [Antares]" (SBC_Category_ShipMod_Equipment_Mfr_Antares [KYWD:010008DB])
+- "Equipment [Cross HI]" (SBC_Category_ShipMod_Equipment_Mfr_CrossHI [KYWD:0100087D])
+- "Fuel Tanks [Antares]" (SBC_Category_ShipMod_FuelTank_Mfr_Antares [KYWD:010008DC])
+- "Fuel Tanks [Cross HI]" (SBC_Category_ShipMod_FuelTank_Mfr_CrossHI [KYWD:0100087F])
+- "Gear [Antares]" (SBC_Category_ShipMod_Gear_Mfr_Antares [KYWD:010008E8])
+- "Gear [Cross HI]" (SBC_Category_ShipMod_Gear_Mfr_CrossHI [KYWD:01000881])
+- "Grav Drives [Antares]" (SBC_Category_ShipMod_GravDrive_Mfr_Antares [KYWD:010008E9])
+- "Grav Drives [Cross HI]" (SBC_Category_ShipMod_GravDrive_Mfr_CrossHI [KYWD:01000883])
+- "Habs [Antares]" (SBC_Category_ShipMod_Hab_Mfr_Antares [KYWD:010008EA])
+- "Habs [Cross HI]" (SBC_Category_ShipMod_Hab_Mfr_CrossHI [KYWD:0100088F])
+- "Mod [Antares]" (SBC_Category_ShipMod_Mod_Antares [KYWD:010008F1])
+- "Mod [Cross HI]" (SBC_Category_ShipMod_Mod_CrossHI [KYWD:01000899])
+- "Reactors [Antares]" (SBC_Category_ShipMod_Reactor_Mfr_Antares [KYWD:010008EB])
+- "Reactors [Cross HI]" (SBC_Category_ShipMod_Reactor_Mfr_CrossHI [KYWD:01000891])
+- "Shields [Antares]" (SBC_Category_ShipMod_Shields_Mfr_Antares [KYWD:010008EC])
+- "Shields [Cross HI]" (SBC_Category_ShipMod_Shields_Mfr_CrossHI [KYWD:01000893])
+- "Structural [Antares]" (SBC_Category_ShipMod_Structure_Mfr_Antares [KYWD:010008EF])
+- "Structural [Cross HI]" (SBC_Category_ShipMod_Structure_Mfr_CrossHI [KYWD:01000895])
+- "Weapons [Antares]" (SBC_Category_ShipMod_Weapon_Mfr_Antares [KYWD:010008F0])
+- "Weapons [Cross HI]" (SBC_Category_ShipMod_Weapon_Mfr_CrossHI [KYWD:01000897])
+- Updated contact info in README
+
+([TOC](#table-of-contents))
 
 v1.16.0
 -------
