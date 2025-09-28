@@ -2,7 +2,7 @@ This mod does nothing on its own
 =====
 It must be paired with other mods that actually utilize the added category keywords.
 
-Version: 1.16.0
+Version: 1.17.0
 
 Summary
 -----
@@ -39,11 +39,12 @@ Voicesaa: Cleaning up the Chinese translations
 
 Contact
 -----
-If you find a bug or have a question about the mod, please post it on the mod page at Nexus Mods (https://www.nexusmods.com/starfield/mods/7310), or in the GitHub project (https://github.com/rux616/starfield-ship-builder-categories).
+If you find a bug or have a question about the mod, please post it on the mod page at Nexus Mods (https://www.nexusmods.com/starfield/mods/7310), the GitHub project (https://github.com/rux616/starfield-ship-builder-categories), or on Reddit in r/StarfieldMods (https://www.reddit.com/r/starfieldmods/) (make sure to tag me: u/rux616).
 
 If you need to contact me personally, I can be reached through one of the following means:
-- **Nexus Mods**:  rux616 (https://www.nexusmods.com/users/124191) (Send a message via the "CONTACT" button.)
+- **Nexus Mods**: rux616 (https://www.nexusmods.com/users/124191) (Click the "Message" button.)
 - **Email**: rux616-at-pm-dot-me (replace `-at-` with `@` and `-dot-` with `.`)
+- **Reddit**: u/rux616
 - **Discord**: rux616 (user ID 234489279991119873) - make sure to "@" me
     - Lively's Modding Hub (https://discord.gg/livelymods)
     - Nexus Mods (https://discord.gg/nexusmods)

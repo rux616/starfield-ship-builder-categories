@@ -1,0 +1,8 @@
+FormKey: 000883:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_GravDrive_Mfr_CrossHI
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Grav Drives [Cross HI]

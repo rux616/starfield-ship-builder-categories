@@ -2,12 +2,12 @@
 
 - [X] Add category for "Place Doors Yourself" mod
 - [X] Remove vortex-specific mod manager support
-- [ ] Add "How To" document
+- [X] Add "How To" document
     - [X] add xEdit method
     - [X] add CK method
-    - [ ] add pictures
+    - [-] add pictures
 - [X] Re-make plugin in CK
-- [ ] ~~change to Small Master~~ (indefinite hold until load order behavior is fully understood)
+- [-] ~~change to Small Master~~ (indefinite hold until load order behavior is fully understood)
 - [X] add "Bay" category for DerreTech, DerreTech Legacy Redux, Varuunsev
 - [X] add support for:
     - [X] Falkland Systems [Falkland] (All)
@@ -26,4 +26,8 @@
     - [X] Ship to Ship Transporter [Transporter] (Habs)
     - [X] Trident Luxury [Trident] (Habs) (Creation: https://creations.bethesda.net/en/starfield/details/e9c8a803-6316-40d7-8244-b571b6d7e510/Trident_Luxury_Habitats)
     - [X] Ship Wings [FenDragon] (Structural) (Creation: https://creations.bethesda.net/en/starfield/details/369ec096-4e51-4332-b0ab-6302f18ff4ee/Ship_Wings)
+    - [X] Antares Group [Antares] (All) https://www.nexusmods.com/starfield/mods/13669
+    - [X] Cross Heavy Industries [Cross HI] (All) https://www.nexusmods.com/starfield/mods/14685
 - [ ] make xEdit scripts to add and sort categories
+    - [X] add
+    - [ ] sort

@@ -6,7 +6,9 @@ Name:
   Value: Ship Modules
 Items:
 - 29C470:Starfield.esm
+- 00089B:ShipBuilderCategories.esm
 - 0008DE:ShipBuilderCategories.esm
+- 00084F:ShipBuilderCategories.esm
 - 000859:ShipBuilderCategories.esm
 - 00085B:ShipBuilderCategories.esm
 - 0008A1:ShipBuilderCategories.esm
@@ -19,8 +21,10 @@ Items:
 - 00085D:ShipBuilderCategories.esm
 - 2C155D:Starfield.esm
 - 000800:ShipBuilderCategories.esm
+- 0008CB:ShipBuilderCategories.esm
 - 00089C:ShipBuilderCategories.esm
 - 0008DF:ShipBuilderCategories.esm
+- 000852:ShipBuilderCategories.esm
 - 000874:ShipBuilderCategories.esm
 - 0008D2:ShipBuilderCategories.esm
 - 000834:ShipBuilderCategories.esm
@@ -31,7 +35,9 @@ Items:
 - 00081A:ShipBuilderCategories.esm
 - 29C46E:Starfield.esm
 - 00080C:ShipBuilderCategories.esm
+- 0008D8:ShipBuilderCategories.esm
 - 0008E0:ShipBuilderCategories.esm
+- 000853:ShipBuilderCategories.esm
 - 000866:ShipBuilderCategories.esm
 - 000862:ShipBuilderCategories.esm
 - 000835:ShipBuilderCategories.esm
@@ -44,8 +50,10 @@ Items:
 - 000896:ShipBuilderCategories.esm
 - 00081B:ShipBuilderCategories.esm
 - 29C472:Starfield.esm
+- 0008D9:ShipBuilderCategories.esm
 - 0008A0:ShipBuilderCategories.esm
 - 0008E1:ShipBuilderCategories.esm
+- 000856:ShipBuilderCategories.esm
 - 0008D7:ShipBuilderCategories.esm
 - 000841:ShipBuilderCategories.esm
 - 000865:ShipBuilderCategories.esm
@@ -58,7 +66,9 @@ Items:
 - 000801:ShipBuilderCategories.esm
 - 000854:ShipBuilderCategories.esm
 - 000855:ShipBuilderCategories.esm
+- 0008DA:ShipBuilderCategories.esm
 - 00089E:ShipBuilderCategories.esm
+- 000857:ShipBuilderCategories.esm
 - 00086A:ShipBuilderCategories.esm
 - 0008D0:ShipBuilderCategories.esm
 - 000842:ShipBuilderCategories.esm
@@ -70,6 +80,8 @@ Items:
 - 00081D:ShipBuilderCategories.esm
 - 29C477:Starfield.esm
 - 000832:ShipBuilderCategories.esm
+- 0008DB:ShipBuilderCategories.esm
+- 00087D:ShipBuilderCategories.esm
 - 000872:ShipBuilderCategories.esm
 - 0008D1:ShipBuilderCategories.esm
 - 000843:ShipBuilderCategories.esm
@@ -81,8 +93,10 @@ Items:
 - 29C478:Starfield.esm
 - 000A40:ShipBuilderCategories.esm
 - 000802:ShipBuilderCategories.esm
+- 0008DC:ShipBuilderCategories.esm
 - 0008A4:ShipBuilderCategories.esm
 - 0008E2:ShipBuilderCategories.esm
+- 00087F:ShipBuilderCategories.esm
 - 000876:ShipBuilderCategories.esm
 - 0008CF:ShipBuilderCategories.esm
 - 000844:ShipBuilderCategories.esm
@@ -94,8 +108,10 @@ Items:
 - 000892:ShipBuilderCategories.esm
 - 00081F:ShipBuilderCategories.esm
 - 29C46F:Starfield.esm
+- 0008E8:ShipBuilderCategories.esm
 - 0008A2:ShipBuilderCategories.esm
 - 0008E3:ShipBuilderCategories.esm
+- 000881:ShipBuilderCategories.esm
 - 00086C:ShipBuilderCategories.esm
 - 0008CD:ShipBuilderCategories.esm
 - 000845:ShipBuilderCategories.esm
@@ -107,7 +123,9 @@ Items:
 - 29C474:Starfield.esm
 - 00080E:ShipBuilderCategories.esm
 - 000803:ShipBuilderCategories.esm
+- 0008E9:ShipBuilderCategories.esm
 - 0008A8:ShipBuilderCategories.esm
+- 000883:ShipBuilderCategories.esm
 - 000868:ShipBuilderCategories.esm
 - 0008CE:ShipBuilderCategories.esm
 - 000846:ShipBuilderCategories.esm
@@ -120,8 +138,10 @@ Items:
 - 29C471:Starfield.esm
 - 0008C6:ShipBuilderCategories.esm
 - 00085C:ShipBuilderCategories.esm
+- 0008EA:ShipBuilderCategories.esm
 - 0008E4:ShipBuilderCategories.esm
 - 000880:ShipBuilderCategories.esm
+- 00088F:ShipBuilderCategories.esm
 - 000836:ShipBuilderCategories.esm
 - 00084C:ShipBuilderCategories.esm
 - 000847:ShipBuilderCategories.esm
@@ -154,7 +174,9 @@ Items:
 - 000804:ShipBuilderCategories.esm
 - 00082B:ShipBuilderCategories.esm
 - 00080B:ShipBuilderCategories.esm
+- 0008EB:ShipBuilderCategories.esm
 - 0008A6:ShipBuilderCategories.esm
+- 000891:ShipBuilderCategories.esm
 - 00086E:ShipBuilderCategories.esm
 - 0008CC:ShipBuilderCategories.esm
 - 000849:ShipBuilderCategories.esm
@@ -168,6 +190,8 @@ Items:
 - 29C476:Starfield.esm
 - 00080F:ShipBuilderCategories.esm
 - 000805:ShipBuilderCategories.esm
+- 0008EC:ShipBuilderCategories.esm
+- 000893:ShipBuilderCategories.esm
 - 000870:ShipBuilderCategories.esm
 - 0008D3:ShipBuilderCategories.esm
 - 00084A:ShipBuilderCategories.esm
@@ -180,8 +204,10 @@ Items:
 - 29C473:Starfield.esm
 - 0008C8:ShipBuilderCategories.esm
 - 00082C:ShipBuilderCategories.esm
+- 0008EF:ShipBuilderCategories.esm
 - 0008AA:ShipBuilderCategories.esm
 - 0008E6:ShipBuilderCategories.esm
+- 000895:ShipBuilderCategories.esm
 - 00083B:ShipBuilderCategories.esm
 - 00084D:ShipBuilderCategories.esm
 - 00084B:ShipBuilderCategories.esm
@@ -216,7 +242,9 @@ Items:
 - 00085A:ShipBuilderCategories.esm
 - 000816:ShipBuilderCategories.esm
 - 000830:ShipBuilderCategories.esm
+- 0008F0:ShipBuilderCategories.esm
 - 0008E7:ShipBuilderCategories.esm
+- 000897:ShipBuilderCategories.esm
 - 000878:ShipBuilderCategories.esm
 - 000860:ShipBuilderCategories.esm
 - 00084E:ShipBuilderCategories.esm
@@ -227,10 +255,12 @@ Items:
 - 00088E:ShipBuilderCategories.esm
 - 000827:ShipBuilderCategories.esm
 - 0008CA:ShipBuilderCategories.esm
+- 0008F1:ShipBuilderCategories.esm
 - 00089A:ShipBuilderCategories.esm
 - 00085E:ShipBuilderCategories.esm
 - 0008E5:ShipBuilderCategories.esm
 - 00087E:ShipBuilderCategories.esm
+- 000899:ShipBuilderCategories.esm
 - 000864:ShipBuilderCategories.esm
 - 000831:ShipBuilderCategories.esm
 - 000848:ShipBuilderCategories.esm

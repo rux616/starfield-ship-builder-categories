@@ -1,0 +1,8 @@
+FormKey: 0008F0:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Weapon_Mfr_Antares
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Weapons [Antares]
