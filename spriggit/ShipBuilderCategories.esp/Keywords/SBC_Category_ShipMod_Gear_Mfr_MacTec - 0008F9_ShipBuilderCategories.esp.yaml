@@ -1,0 +1,8 @@
+FormKey: 0008F9:ShipBuilderCategories.esp
+EditorID: SBC_Category_ShipMod_Gear_Mfr_MacTec
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Gear [Mac Tec]

@@ -11,7 +11,7 @@ ModHeader:
     Adds categories to the Ship Builder for use by other mods.
 
 
-    Version: 1.17.1
+    Version: 1.18.0
   MasterReferences:
   - Master: Starfield.esm
   Branch: Main
