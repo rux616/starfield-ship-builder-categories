@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.18.0](#v1180)
     - [v1.17.1](#v1171)
     - [v1.17.0](#v1170)
     - [v1.16.0](#v1160)
@@ -30,6 +31,27 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.18.0
+-------
+- Added category "Bays [Mac Tec]" (SBC_Category_ShipMod_Bay_Mfr_MacTec [KYWD:xx0008F2])
+- Added category "Cargo [Mac Tec]" (SBC_Category_ShipMod_Cargo_Mfr_MacTec [KYWD:xx0008F3])
+- Added category "Cockpits [Mac Tec]" (SBC_Category_ShipMod_Cockpit_Mfr_MacTec [KYWD:xx0008F4])
+- Added category "Dockers [Mac Tec]" (SBC_Category_ShipMod_Docker_Mfr_MacTec [KYWD:xx0008F5])
+- Added category "Engines [Mac Tec]" (SBC_Category_ShipMod_Engine_Mfr_MacTec [KYWD:xx0008F6])
+- Added category "Equipment [Mac Tec]" (SBC_Category_ShipMod_Equipment_Mfr_MacTec [KYWD:xx0008F7])
+- Added category "Fuel Tanks [Mac Tec]" (SBC_Category_ShipMod_FuelTank_Mfr_MacTec [KYWD:xx0008F8])
+- Added category "Gear [Mac Tec]" (SBC_Category_ShipMod_Gear_Mfr_MacTec [KYWD:xx0008F9])
+- Added category "Grav Drives [Mac Tec]" (SBC_Category_ShipMod_GravDrive_Mfr_MacTec [KYWD:xx0008FA])
+- Added category "Habs [Mac Tec]" (SBC_Category_ShipMod_Hab_Mfr_MacTec [KYWD:xx0008FB])
+- Added category "Reactors [Mac Tec]" (SBC_Category_ShipMod_Reactor_Mfr_MacTec [KYWD:xx0008FC])
+- Added category "Shields [Mac Tec]" (SBC_Category_ShipMod_Shields_Mfr_MacTec [KYWD:xx0008FD])
+- Added category "Structural [Mac Tec]" (SBC_Category_ShipMod_Structure_Mfr_MacTec [KYWD:xx0008FE])
+- Added category "Weapons [Mac Tec]" (SBC_Category_ShipMod_Weapon_Mfr_MacTec [KYWD:xx0008FF])
+- Added category "Mod [Mac Tec]" (SBC_Category_ShipMod_Mod_MacTec [KYWD:xx000900])
+
+([TOC](#table-of-contents))
+
 
 v1.17.1
 -------

@@ -14,6 +14,7 @@ Items:
 - 0008A1:ShipBuilderCategories.esm
 - 00085F:ShipBuilderCategories.esm
 - 0008C4:ShipBuilderCategories.esm
+- 0008F2:ShipBuilderCategories.esm
 - 0008B6:ShipBuilderCategories.esm
 - 00082D:ShipBuilderCategories.esm
 - 0008AD:ShipBuilderCategories.esm
@@ -29,6 +30,7 @@ Items:
 - 0008D2:ShipBuilderCategories.esm
 - 000834:ShipBuilderCategories.esm
 - 000861:ShipBuilderCategories.esm
+- 0008F3:ShipBuilderCategories.esm
 - 0008BE:ShipBuilderCategories.esm
 - 000A54:ShipBuilderCategories.esm
 - 000890:ShipBuilderCategories.esm
@@ -43,6 +45,7 @@ Items:
 - 000835:ShipBuilderCategories.esm
 - 00089F:ShipBuilderCategories.esm
 - 000863:ShipBuilderCategories.esm
+- 0008F4:ShipBuilderCategories.esm
 - 0008AE:ShipBuilderCategories.esm
 - 0008AB:ShipBuilderCategories.esm
 - 0008AF:ShipBuilderCategories.esm
@@ -57,6 +60,7 @@ Items:
 - 0008D7:ShipBuilderCategories.esm
 - 000841:ShipBuilderCategories.esm
 - 000865:ShipBuilderCategories.esm
+- 0008F5:ShipBuilderCategories.esm
 - 0008D6:ShipBuilderCategories.esm
 - 00082E:ShipBuilderCategories.esm
 - 000A56:ShipBuilderCategories.esm
@@ -73,6 +77,7 @@ Items:
 - 0008D0:ShipBuilderCategories.esm
 - 000842:ShipBuilderCategories.esm
 - 000867:ShipBuilderCategories.esm
+- 0008F6:ShipBuilderCategories.esm
 - 0008B0:ShipBuilderCategories.esm
 - 0008B1:ShipBuilderCategories.esm
 - 000A57:ShipBuilderCategories.esm
@@ -86,6 +91,7 @@ Items:
 - 0008D1:ShipBuilderCategories.esm
 - 000843:ShipBuilderCategories.esm
 - 000869:ShipBuilderCategories.esm
+- 0008F7:ShipBuilderCategories.esm
 - 0008C2:ShipBuilderCategories.esm
 - 000A58:ShipBuilderCategories.esm
 - 0008D5:ShipBuilderCategories.esm
@@ -102,6 +108,7 @@ Items:
 - 000844:ShipBuilderCategories.esm
 - 0008A3:ShipBuilderCategories.esm
 - 00086B:ShipBuilderCategories.esm
+- 0008F8:ShipBuilderCategories.esm
 - 000819:ShipBuilderCategories.esm
 - 0008B3:ShipBuilderCategories.esm
 - 000A59:ShipBuilderCategories.esm
@@ -116,6 +123,7 @@ Items:
 - 0008CD:ShipBuilderCategories.esm
 - 000845:ShipBuilderCategories.esm
 - 00086D:ShipBuilderCategories.esm
+- 0008F9:ShipBuilderCategories.esm
 - 0008B8:ShipBuilderCategories.esm
 - 0008BF:ShipBuilderCategories.esm
 - 000A5A:ShipBuilderCategories.esm
@@ -130,6 +138,7 @@ Items:
 - 0008CE:ShipBuilderCategories.esm
 - 000846:ShipBuilderCategories.esm
 - 00086F:ShipBuilderCategories.esm
+- 0008FA:ShipBuilderCategories.esm
 - 0008B2:ShipBuilderCategories.esm
 - 0008B5:ShipBuilderCategories.esm
 - 000A5B:ShipBuilderCategories.esm
@@ -154,6 +163,7 @@ Items:
 - 000837:ShipBuilderCategories.esm
 - 000889:ShipBuilderCategories.esm
 - 00087A:ShipBuilderCategories.esm
+- 0008FB:ShipBuilderCategories.esm
 - 0008BA:ShipBuilderCategories.esm
 - 0008B7:ShipBuilderCategories.esm
 - 000838:ShipBuilderCategories.esm
@@ -182,6 +192,7 @@ Items:
 - 000849:ShipBuilderCategories.esm
 - 0008A5:ShipBuilderCategories.esm
 - 000875:ShipBuilderCategories.esm
+- 0008FC:ShipBuilderCategories.esm
 - 000818:ShipBuilderCategories.esm
 - 0008B9:ShipBuilderCategories.esm
 - 000A5E:ShipBuilderCategories.esm
@@ -196,6 +207,7 @@ Items:
 - 0008D3:ShipBuilderCategories.esm
 - 00084A:ShipBuilderCategories.esm
 - 000877:ShipBuilderCategories.esm
+- 0008FD:ShipBuilderCategories.esm
 - 0008B4:ShipBuilderCategories.esm
 - 0008BB:ShipBuilderCategories.esm
 - 000A5F:ShipBuilderCategories.esm
@@ -215,6 +227,7 @@ Items:
 - 0008EE:ShipBuilderCategories.esm
 - 00083C:ShipBuilderCategories.esm
 - 00088B:ShipBuilderCategories.esm
+- 0008FE:ShipBuilderCategories.esm
 - 0008BC:ShipBuilderCategories.esm
 - 00083D:ShipBuilderCategories.esm
 - 00082F:ShipBuilderCategories.esm
@@ -249,6 +262,7 @@ Items:
 - 000860:ShipBuilderCategories.esm
 - 00084E:ShipBuilderCategories.esm
 - 00087B:ShipBuilderCategories.esm
+- 0008FF:ShipBuilderCategories.esm
 - 0008C0:ShipBuilderCategories.esm
 - 0008C1:ShipBuilderCategories.esm
 - 000A61:ShipBuilderCategories.esm
@@ -269,6 +283,7 @@ Items:
 - 000850:ShipBuilderCategories.esm
 - 00088D:ShipBuilderCategories.esm
 - 00087C:ShipBuilderCategories.esm
+- 000900:ShipBuilderCategories.esm
 - 0008AC:ShipBuilderCategories.esm
 - 000833:ShipBuilderCategories.esm
 - 0008C3:ShipBuilderCategories.esm

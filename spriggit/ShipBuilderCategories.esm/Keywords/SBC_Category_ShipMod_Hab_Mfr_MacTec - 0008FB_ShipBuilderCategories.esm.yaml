@@ -1,0 +1,8 @@
+FormKey: 0008FB:ShipBuilderCategories.esm
+EditorID: SBC_Category_ShipMod_Hab_Mfr_MacTec
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Habs [Mac Tec]
