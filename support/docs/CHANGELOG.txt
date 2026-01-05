@@ -6,6 +6,7 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.19.0
     - v1.18.0
     - v1.17.1
     - v1.17.0
@@ -32,6 +33,23 @@ Table Of Contents
 Changelog
 =========
 
+v1.19.0
+-------
+- Added category "Bays [VTI]" (SBC_Category_ShipMod_Bay_Mfr_VTI [KYWD:xx000901])
+- Added category "Cargo [VTI]" (SBC_Category_ShipMod_Cargo_Mfr_VTI [KYWD:xx000902])
+- Added category "Cockpits [VTI]" (SBC_Category_ShipMod_Cockpit_Mfr_VTI [KYWD:xx000903])
+- Added category "Dockers [VTI]" (SBC_Category_ShipMod_Docker_Mfr_VTI [KYWD:xx000904])
+- Added category "Engines [VTI]" (SBC_Category_ShipMod_Engine_Mfr_VTI [KYWD:xx000905])
+- Added category "Equipment [VTI]" (SBC_Category_ShipMod_Equipment_Mfr_VTI [KYWD:xx000906])
+- Added category "Fuel Tanks [VTI]" (SBC_Category_ShipMod_FuelTank_Mfr_VTI [KYWD:xx000907])
+- Added category "Gear [VTI]" (SBC_Category_ShipMod_Gear_Mfr_VTI [KYWD:xx000908])
+- Added category "Grav Drives [VTI]" (SBC_Category_ShipMod_GravDrive_Mfr_VTI [KYWD:xx000909])
+- Added category "Mod [VTI]" (SBC_Category_ShipMod_Mod_VTI [KYWD:xx00090E])
+- Added category "Reactors [VTI]" (SBC_Category_ShipMod_Reactor_Mfr_VTI [KYWD:xx00090A])
+- Added category "Shields [VTI]" (SBC_Category_ShipMod_Shields_Mfr_VTI [KYWD:xx00090B])
+- Added category "Structural [VTI]" (SBC_Category_ShipMod_Structure_Mfr_VTI [KYWD:xx00090C])
+- Added category "Weapons [VTI]" (SBC_Category_ShipMod_Weapon_Mfr_VTI [KYWD:xx00090D])
+
 v1.18.0
 -------
 - Added category "Bays [Mac Tec]" (SBC_Category_ShipMod_Bay_Mfr_MacTec [KYWD:xx0008F2])
@@ -44,12 +62,11 @@ v1.18.0
 - Added category "Gear [Mac Tec]" (SBC_Category_ShipMod_Gear_Mfr_MacTec [KYWD:xx0008F9])
 - Added category "Grav Drives [Mac Tec]" (SBC_Category_ShipMod_GravDrive_Mfr_MacTec [KYWD:xx0008FA])
 - Added category "Habs [Mac Tec]" (SBC_Category_ShipMod_Hab_Mfr_MacTec [KYWD:xx0008FB])
+- Added category "Mod [Mac Tec]" (SBC_Category_ShipMod_Mod_MacTec [KYWD:xx000900])
 - Added category "Reactors [Mac Tec]" (SBC_Category_ShipMod_Reactor_Mfr_MacTec [KYWD:xx0008FC])
 - Added category "Shields [Mac Tec]" (SBC_Category_ShipMod_Shields_Mfr_MacTec [KYWD:xx0008FD])
 - Added category "Structural [Mac Tec]" (SBC_Category_ShipMod_Structure_Mfr_MacTec [KYWD:xx0008FE])
 - Added category "Weapons [Mac Tec]" (SBC_Category_ShipMod_Weapon_Mfr_MacTec [KYWD:xx0008FF])
-- Added category "Mod [Mac Tec]" (SBC_Category_ShipMod_Mod_MacTec [KYWD:xx000900])
-
 
 v1.17.1
 -------
