@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.19.0
+Version: 1.20.0
 
 Table Of Contents
 -----------------
