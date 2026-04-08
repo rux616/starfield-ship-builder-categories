@@ -6,6 +6,7 @@ Table Of Contents
 - Ship Builder Categories
     - Table Of Contents
 - Changelog
+    - v1.20.0
     - v1.19.0
     - v1.18.0
     - v1.17.1
@@ -32,6 +33,10 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.20.0
+-------
+- Version bump to enable Playstation support on Creations site
 
 v1.19.0
 -------
