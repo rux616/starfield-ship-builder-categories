@@ -1,5 +1,6 @@
 FormKey: 0008CA:ShipBuilderCategories.esm
 EditorID: SBC_Category_ShipMod_Weapon_Mfr_ZSW
+FormVersion: 582
 Color: '#00FFFFFF'
 Type: RecipeFilter
 FNAM: 0x00000000

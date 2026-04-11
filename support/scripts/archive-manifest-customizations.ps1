@@ -18,4 +18,4 @@
 
 # customizations for the archive manifests
 
-$additional_exclude_7z = @("*.esp")
+$additional_exclude_7z = @("*.esp", "SBC-ConflictTest.esm")

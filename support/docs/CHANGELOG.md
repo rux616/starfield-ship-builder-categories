@@ -6,6 +6,7 @@ Table Of Contents
 - [Ship Builder Categories](#ship-builder-categories)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.21.0](#v1210)
     - [v1.20.0](#v1200)
     - [v1.19.0](#v1190)
     - [v1.18.0](#v1180)
@@ -33,6 +34,12 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.21.0
+-------
+- Add a failsafe to ensure that even if the main list is overwritten, additional categories don't disappear
+
+([TOC](#table-of-contents))
 
 v1.20.0
 -------

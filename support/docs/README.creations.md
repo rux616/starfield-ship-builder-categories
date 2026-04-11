@@ -2,7 +2,7 @@ This mod does nothing on its own
 =====
 It must be paired with other mods that actually utilize the added category keywords.
 
-Version: 1.20.0
+Version: 1.21.0
 
 Summary
 -----
@@ -15,7 +15,7 @@ This is a limited version of the README. The full version, including a list of a
 
 Compatibility
 -----
-Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]). With the latest changes as of v1.21.0+, this won't be a fatal conflict (that is, all additional categories disappear), but it will cause any additional categories to appear at the end of the list, instead of logically interspersed like they are designed to be.
 
 
 Known Issues

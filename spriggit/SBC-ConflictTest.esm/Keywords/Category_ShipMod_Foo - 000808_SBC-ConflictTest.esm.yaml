@@ -1,0 +1,9 @@
+FormKey: 000808:SBC-ConflictTest.esm
+EditorID: Category_ShipMod_Foo
+FormVersion: 582
+Color: '#00FFFFFF'
+Type: RecipeFilter
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Foo

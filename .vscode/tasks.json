@@ -30,7 +30,7 @@
       "label": "Update Versions",
       "type": "shell",
       "command": "./support/common/scripts/version-updater.ps1",
-      "args": ["-SkipBackup"]
+      "args": ["-SkipBackup", "-PluginFiles", "./data/ShipBuilderCategories.esp,./data/ShipBuilderCategories.esm"]
     },
     {
       "label": "Sanitize FOMOD XML Files",
