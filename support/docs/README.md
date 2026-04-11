@@ -2,7 +2,7 @@ Ship Builder Categories
 =======================
 by rux616
 
-Version: 1.20.0
+Version: 1.21.0
 
 Table Of Contents
 -----------------
@@ -43,7 +43,7 @@ For the complete list of categories (both vanilla and included in this mod), ple
 
 Compatibility
 -------------
-Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]).
+Will conflict with other mods that do their own edits to the Ship Builder categories form ID list (ShipModuleRecipeCategories [FLST:002C2E94]). With the latest changes as of v1.21.0+, this won't be a fatal conflict (that is, all additional categories disappear), but it will cause any additional categories to appear at the end of the list, instead of logically interspersed like they are designed to be.
 
 ([TOC](#table-of-contents))
 
